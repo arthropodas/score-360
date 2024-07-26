@@ -1,0 +1,876 @@
+2024-05-22 02:49:47,371 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:51226]
+2024-05-22 02:49:47,417 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:51226]
+2024-05-22 02:49:48,205 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:51226]
+2024-05-22 02:51:19,055 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43488]
+2024-05-22 02:51:19,057 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43488]
+2024-05-22 02:51:19,752 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:43488]
+2024-05-22 02:51:21,684 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43494]
+2024-05-22 02:51:21,686 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43494]
+2024-05-22 02:51:22,076 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:43494]
+2024-05-22 03:06:50,502 [INFO] [mHTTP OPTIONS /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.00, 127.0.0.1:53496][0m
+2024-05-22 03:06:51,222 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.72, 127.0.0.1:53496][0m
+2024-05-22 03:11:04,121 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.24, 127.0.0.1:40080][0m
+2024-05-22 03:13:14,288 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.21, 127.0.0.1:36414][0m
+2024-05-22 03:13:14,386 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.10, 127.0.0.1:36414][0m
+2024-05-22 03:13:26,869 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.19, 127.0.0.1:36414][0m
+2024-05-22 03:13:29,456 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.16, 127.0.0.1:36414][0m
+2024-05-22 03:13:48,906 [INFO] [mHTTP OPTIONS /tournament/get/14/ 200 [0.00, 127.0.0.1:36414][0m
+2024-05-22 03:13:48,914 [INFO] [mHTTP OPTIONS /tournament/get/14/ 200 [0.00, 127.0.0.1:36414][0m
+2024-05-22 03:13:48,969 [INFO] [mHTTP OPTIONS /team/list/?page=1&pageSize=10&search=&order=&tournamentId=14 200 [0.00, 127.0.0.1:36414][0m
+2024-05-22 03:13:49,535 [INFO] [mHTTP GET /tournament/get/14/ 200 [0.62, 127.0.0.1:59528][0m
+2024-05-22 03:13:49,846 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=14 200 [0.87, 127.0.0.1:36414][0m
+2024-05-22 03:13:50,007 [INFO] [mHTTP GET /tournament/get/14/ 200 [0.47, 127.0.0.1:59528][0m
+2024-05-22 03:13:56,256 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.28, 127.0.0.1:59528][0m
+2024-05-22 03:28:26,593 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:46560]
+2024-05-22 03:28:26,594 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:46560]
+2024-05-22 03:28:28,624 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53078]
+2024-05-22 03:28:28,626 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34150]
+2024-05-22 03:28:28,627 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34168]
+2024-05-22 03:28:28,629 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34174]
+2024-05-22 03:28:29,324 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:46568]
+2024-05-22 03:28:29,328 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:46568]
+2024-05-22 03:28:29,334 [INFO] [mHTTP OPTIONS /match/get_match_score?matchId=30 200 [0.00, 127.0.0.1:46576][0m
+2024-05-22 03:28:30,147 [INFO] [mHTTP GET /match/get_match_score?matchId=30 200 [0.81, 127.0.0.1:46576][0m
+2024-05-22 03:28:30,157 [INFO] [mHTTP OPTIONS /score/match_score_data?matchId=30 200 [0.00, 127.0.0.1:46576][0m
+2024-05-22 03:28:30,642 [INFO] [mHTTP GET /score/match_score_data?matchId=30 200 [0.48, 127.0.0.1:46576][0m
+2024-05-22 03:32:18,226 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:46568]
+2024-05-22 03:32:18,405 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:56552]
+2024-05-22 03:32:18,406 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:56552]
+2024-05-22 03:32:19,027 [INFO] [mHTTP GET /match/get_match_score?matchId=30 200 [0.55, 127.0.0.1:56564][0m
+2024-05-22 03:32:19,439 [INFO] [mHTTP GET /score/match_score_data?matchId=30 200 [0.41, 127.0.0.1:56564][0m
+2024-05-22 03:59:02,398 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.22, 127.0.0.1:33076][0m
+2024-05-22 03:59:04,767 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.24, 127.0.0.1:33076][0m
+2024-05-22 03:59:10,167 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.17, 127.0.0.1:33076][0m
+2024-05-22 03:59:19,903 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.26, 127.0.0.1:33076][0m
+2024-05-22 03:59:23,862 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.27, 127.0.0.1:33076][0m
+2024-05-22 03:59:25,441 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.20, 127.0.0.1:33076][0m
+2024-05-22 03:59:25,627 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.18, 127.0.0.1:33076][0m
+2024-05-22 03:59:29,619 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.25, 127.0.0.1:33076][0m
+2024-05-22 03:59:38,593 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.26, 127.0.0.1:33076][0m
+2024-05-22 04:04:04,769 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.30, 127.0.0.1:48046][0m
+2024-05-22 04:04:17,580 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.14, 127.0.0.1:48046][0m
+2024-05-22 04:05:58,892 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.20, 127.0.0.1:44504][0m
+2024-05-22 04:06:10,384 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.22, 127.0.0.1:44504][0m
+2024-05-22 04:07:07,072 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.23, 127.0.0.1:44504][0m
+2024-05-22 04:07:37,597 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.20, 127.0.0.1:44504][0m
+2024-05-22 04:07:48,949 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.32, 127.0.0.1:44504][0m
+2024-05-22 04:07:56,735 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.20, 127.0.0.1:44504][0m
+2024-05-22 04:08:05,712 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.15, 127.0.0.1:44504][0m
+2024-05-22 04:08:13,702 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.16, 127.0.0.1:44504][0m
+2024-05-22 04:08:46,709 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.22, 127.0.0.1:44504][0m
+2024-05-22 04:09:02,927 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.20, 127.0.0.1:44504][0m
+2024-05-22 04:09:14,929 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.24, 127.0.0.1:44504][0m
+2024-05-22 04:41:57,371 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:46560]
+2024-05-22 04:46:21,855 [INFO] [mHTTP GET /match/get_match_score?matchId=30 200 [0.20, 127.0.0.1:45856][0m
+2024-05-22 04:46:22,246 [INFO] [mHTTP GET /score/match_score_data?matchId=30 200 [0.39, 127.0.0.1:45856][0m
+2024-05-22 09:17:33,530 [INFO] /home/mithramohanan/score360/backend/match_management/validators.py changed, reloading.
+2024-05-22 09:17:34,597 [INFO] Watching for file changes with StatReloader
+2024-05-22 09:17:35,141 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 09:17:35,141 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 09:17:35,142 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 09:18:32,649 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:39902]
+2024-05-22 09:18:32,653 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:39902]
+2024-05-22 09:18:32,657 [INFO] [mHTTP OPTIONS /match/get_match_score?matchId=30 200 [0.01, 127.0.0.1:39910][0m
+2024-05-22 09:18:32,668 [WARNING] Unauthorized: /match/get_match_score
+2024-05-22 09:18:32,669 [WARNING] [31;1mHTTP GET /match/get_match_score?matchId=30 401 [0.01, 127.0.0.1:39910][0m
+2024-05-22 09:18:32,677 [INFO] [mHTTP OPTIONS //player/login/refresh 200 [0.00, 127.0.0.1:39910][0m
+2024-05-22 09:18:32,773 [WARNING] Not Found: //player/login/refresh
+2024-05-22 09:18:32,801 [WARNING] [33mHTTP POST //player/login/refresh 404 [0.12, 127.0.0.1:39910][0m
+2024-05-22 09:18:32,811 [WARNING] Unauthorized: /match/get_match_score
+2024-05-22 09:18:32,812 [WARNING] [31;1mHTTP GET /match/get_match_score?matchId=30 401 [0.01, 127.0.0.1:39910][0m
+2024-05-22 09:18:36,071 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:39902]
+2024-05-22 09:19:43,825 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36064]
+2024-05-22 09:19:43,826 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36064]
+2024-05-22 09:19:44,118 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:36064]
+2024-05-22 09:20:22,996 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38796]
+2024-05-22 09:20:22,997 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38796]
+2024-05-22 09:20:23,304 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38796]
+2024-05-22 09:20:24,769 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:42810]
+2024-05-22 09:20:24,771 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:42810]
+2024-05-22 09:20:25,071 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:42810]
+2024-05-22 09:21:50,789 [INFO] [mHTTP OPTIONS /player/login 200 [0.00, 127.0.0.1:49530][0m
+2024-05-22 09:21:52,367 [INFO] Logged in successfully
+2024-05-22 09:21:52,371 [INFO] [mHTTP POST /player/login 200 [1.58, 127.0.0.1:49530][0m
+2024-05-22 09:21:52,448 [INFO] [mHTTP OPTIONS /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.00, 127.0.0.1:49530][0m
+2024-05-22 09:21:52,597 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.15, 127.0.0.1:49530][0m
+2024-05-22 09:22:35,429 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:49330]
+2024-05-22 09:22:35,431 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:49330]
+2024-05-22 09:22:55,445 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44498]
+2024-05-22 09:22:55,448 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44498]
+2024-05-22 09:25:47,256 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:60796]
+2024-05-22 09:25:47,260 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:60796]
+2024-05-22 09:25:48,236 [INFO] [mHTTP GET /match/get_match_score?matchId=30 200 [0.96, 127.0.0.1:60798][0m
+2024-05-22 09:25:48,248 [INFO] [mHTTP OPTIONS /score/match_score_data?matchId=30 200 [0.00, 127.0.0.1:60798][0m
+2024-05-22 09:25:48,639 [INFO] [mHTTP GET /score/match_score_data?matchId=30 200 [0.39, 127.0.0.1:60798][0m
+2024-05-22 09:25:56,599 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:60796]
+2024-05-22 09:25:57,064 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:35668]
+2024-05-22 09:25:57,065 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:35668]
+2024-05-22 09:25:57,683 [INFO] [mHTTP GET /match/get_match_score?matchId=30 200 [0.61, 127.0.0.1:60798][0m
+2024-05-22 09:25:58,072 [INFO] [mHTTP GET /score/match_score_data?matchId=30 200 [0.38, 127.0.0.1:60798][0m
+2024-05-22 09:38:10,924 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:35668]
+2024-05-22 09:38:11,304 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53658]
+2024-05-22 09:38:11,306 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53658]
+2024-05-22 09:38:12,023 [INFO] [mHTTP GET /match/get_match_score?matchId=30 200 [0.71, 127.0.0.1:53668][0m
+2024-05-22 09:38:12,565 [INFO] [mHTTP GET /score/match_score_data?matchId=30 200 [0.53, 127.0.0.1:53668][0m
+2024-05-22 10:12:02,552 [WARNING] Bad Request: /match/add_playing11/
+2024-05-22 10:12:06,012 [WARNING] Bad Request: /match/add_playing11/
+2024-05-22 10:12:09,249 [WARNING] Not Found: /toss/
+2024-05-22 10:12:10,390 [WARNING] Not Found: /toss/
+2024-05-22 10:12:13,373 [WARNING] Bad Request: /match/get_match
+2024-05-22 10:12:14,589 [WARNING] Bad Request: /match/get_match
+2024-05-22 10:12:20,154 [WARNING] Not Found: /match/get_squad
+2024-05-22 10:12:21,065 [WARNING] Bad Request: /match/get_squad
+2024-05-22 10:12:23,239 [WARNING] Bad Request: /match/delete_match_fixture
+2024-05-22 10:12:24,828 [WARNING] Bad Request: /match/delete_match_fixture
+2024-05-22 10:12:26,418 [WARNING] Bad Request: /match/delete_match_fixture
+2024-05-22 10:12:33,467 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 10:12:36,082 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 10:12:37,800 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 10:12:48,058 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 10:12:50,557 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 10:12:53,080 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 10:12:55,725 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 10:12:58,034 [WARNING] Bad Request: /match/match_fixture_list
+2024-05-22 10:12:59,213 [WARNING] Bad Request: /match/match_fixture_list
+2024-05-22 10:13:04,323 [WARNING] Bad Request: /team/add_player/
+2024-05-22 10:13:06,212 [WARNING] Bad Request: /team/add_player/
+2024-05-22 10:13:07,520 [WARNING] Not Found: /team/add_player/
+2024-05-22 10:13:08,802 [ERROR] Internal Server Error: /team/add_player/
+2024-05-22 10:13:12,023 [WARNING] Bad Request: /team/remove_player
+2024-05-22 10:13:13,992 [WARNING] Bad Request: /team/remove_player
+2024-05-22 10:13:19,128 [WARNING] Not Found: /team/get_team/
+2024-05-22 10:13:21,261 [WARNING] Bad Request: /team/team_players_list
+2024-05-22 10:13:21,855 [WARNING] Bad Request: /team/team_players_list
+2024-05-22 10:13:22,187 [WARNING] Bad Request: /team/team_players_list
+2024-05-22 10:13:22,523 [WARNING] Bad Request: /team/team_players_list
+2024-05-22 10:13:24,740 [WARNING] Bad Request: /team/create/
+2024-05-22 10:13:28,670 [WARNING] Not Found: /team/delete/
+2024-05-22 10:13:36,263 [WARNING] Bad Request: /tournament/create/
+2024-05-22 10:13:39,927 [ERROR] Internal Server Error: /tournament/create/
+2024-05-22 10:13:49,929 [WARNING] Not Found: /tournament/delete/
+2024-05-22 10:13:57,616 [WARNING] Not Found: /tournament/get/Tester1 Tournamendt/
+2024-05-22 10:13:59,935 [WARNING] Bad Request: /tournament/edit/
+2024-05-22 10:14:02,419 [ERROR] Validation error: {'errorCode': ['2003'], 'message': ['Invalid email format']}
+2024-05-22 10:14:02,420 [WARNING] Bad Request: /player/login
+2024-05-22 10:14:03,684 [ERROR] Invalid login credentials for email: avani@gmail.com
+2024-05-22 10:14:03,685 [WARNING] Bad Request: /player/login
+2024-05-22 10:14:04,939 [ERROR] Invalid login credentials for email: avan@gmail.com
+2024-05-22 10:14:04,940 [WARNING] Bad Request: /player/login
+2024-05-22 10:14:05,613 [ERROR] Validation error: {'errorCode': ['2003'], 'message': ['Invalid email format']}
+2024-05-22 10:14:05,613 [WARNING] Bad Request: /player/login
+2024-05-22 10:14:06,260 [ERROR] Validation error: {'errorCode': ['2001'], 'message': ['Email is not given']}
+2024-05-22 10:14:06,260 [WARNING] Bad Request: /player/login
+2024-05-22 10:14:07,502 [INFO] Logged in successfully
+2024-05-22 10:14:08,729 [WARNING] Bad Request: /player/change_password
+2024-05-22 10:14:10,003 [ERROR] Invalid current password
+2024-05-22 10:14:10,004 [WARNING] Bad Request: /player/change_password
+2024-05-22 10:14:10,660 [ERROR] validation error in change password
+2024-05-22 10:14:10,661 [WARNING] Bad Request: /player/change_password
+2024-05-22 10:14:12,007 [ERROR] Password is not matching with confirm password
+2024-05-22 10:14:12,007 [WARNING] Bad Request: /player/change_password
+2024-05-22 10:14:13,938 [INFO] Password changed successfully
+2024-05-22 10:14:16,004 [ERROR] Validation error
+2024-05-22 10:14:16,005 [WARNING] Bad Request: /player/validate_email
+2024-05-22 10:14:16,804 [ERROR] Validation error
+2024-05-22 10:14:16,804 [WARNING] Bad Request: /player/validate_email
+2024-05-22 10:14:17,710 [INFO] Registration link successfuly sent
+2024-05-22 10:14:17,976 [ERROR] Validation error: {'errorCode': ['2003'], 'message': ['Invalid email format']}
+2024-05-22 10:14:17,977 [WARNING] Bad Request: /player/forgot_password
+2024-05-22 10:14:18,023 [ERROR] Validation error: {'errorCode': ['2001'], 'message': ['Email is not given']}
+2024-05-22 10:14:18,025 [WARNING] Bad Request: /player/forgot_password
+2024-05-22 10:14:18,123 [ERROR] User with email mith@gmail.com not found
+2024-05-22 10:14:18,124 [WARNING] Bad Request: /player/forgot_password
+2024-05-22 10:14:18,354 [ERROR] Validation error: {'errorCode': ['2001'], 'message': ['Email is not given']}
+2024-05-22 10:14:18,354 [WARNING] Bad Request: /player/forgot_password
+2024-05-22 10:14:18,405 [INFO] Password reset link sent successfully to mithra@gmail.com
+2024-05-22 10:14:18,976 [ERROR] Invalid token
+2024-05-22 10:14:18,977 [WARNING] Bad Request: /player/link_validation
+2024-05-22 10:14:19,054 [ERROR] User does not exist
+2024-05-22 10:14:19,055 [WARNING] Bad Request: /player/link_validation
+2024-05-22 10:14:19,137 [ERROR] User does not exist
+2024-05-22 10:14:19,138 [WARNING] Bad Request: /player/link_validation
+2024-05-22 10:14:19,254 [INFO] valid token
+2024-05-22 10:14:19,926 [WARNING] Bad Request: /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkYXJzaHZhcmdoZXNlYWFhQGdtYWlsLmNvbSIsImV4cGlyeSI6MTc5ODk3MDEzMC4zMDY4OTZ9.tPbNlKQgC1UAyOtFo2mZCi9wHfRACNFlm8I-NZTdGqw
+2024-05-22 10:14:19,947 [WARNING] Bad Request: /player/register/token
+2024-05-22 10:14:19,963 [WARNING] Bad Request: /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkYXJzaHZhcmdoZXNlYWFhQGdtYWlsLmNvbSIsImV4cGlyeSI6MTc5ODk3MDEzMC4zMDY4OTZ9.tPbNlKQgC1UAyOtFo2mZCi9wHfRACNFlm8I-NZTdGqw
+2024-05-22 10:14:19,978 [ERROR] Password is not matching
+2024-05-22 10:14:19,979 [WARNING] Bad Request: /player/reset_password
+2024-05-22 10:14:20,197 [ERROR] validation error in reset password
+2024-05-22 10:14:20,198 [WARNING] Bad Request: /player/reset_password
+2024-05-22 10:14:20,275 [ERROR] Invalid token
+2024-05-22 10:14:20,276 [WARNING] Bad Request: /player/reset_password
+2024-05-22 10:14:20,331 [ERROR] No user found
+2024-05-22 10:14:20,332 [WARNING] Bad Request: /player/reset_password
+2024-05-22 10:14:21,081 [INFO] Password rest successfully
+2024-05-22 10:14:21,085 [WARNING] Bad Request: /player/reset_password
+2024-05-22 10:14:22,607 [INFO] Password rest successfully
+2024-05-22 11:12:26,839 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53658]
+2024-05-22 11:12:27,541 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:39382]
+2024-05-22 11:12:27,738 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:39382]
+2024-05-22 11:12:28,246 [INFO] [mHTTP GET /match/get_match_score?matchId=30 200 [0.70, 127.0.0.1:39392][0m
+2024-05-22 11:12:28,459 [INFO] [mHTTP GET /score/match_score_data?matchId=30 200 [0.21, 127.0.0.1:39392][0m
+2024-05-22 11:15:45,123 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:39382]
+2024-05-22 11:15:45,341 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:51300]
+2024-05-22 11:15:45,344 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:51300]
+2024-05-22 11:15:45,411 [INFO] [mHTTP GET /match/get_match_score?matchId=30 200 [0.07, 127.0.0.1:51286][0m
+2024-05-22 11:15:45,485 [INFO] [mHTTP GET /score/match_score_data?matchId=30 200 [0.07, 127.0.0.1:51286][0m
+2024-05-22 11:24:49,830 [INFO] [mHTTP OPTIONS /player/login 200 [0.00, 127.0.0.1:54326][0m
+2024-05-22 11:24:50,516 [INFO] Logged in successfully
+2024-05-22 11:24:50,520 [INFO] [mHTTP POST /player/login 200 [0.69, 127.0.0.1:54326][0m
+2024-05-22 11:24:50,718 [INFO] [mHTTP OPTIONS /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.00, 127.0.0.1:54326][0m
+2024-05-22 11:24:50,898 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.18, 127.0.0.1:54326][0m
+2024-05-22 11:24:55,548 [INFO] [mHTTP OPTIONS /tournament/get/14/ 200 [0.00, 127.0.0.1:54326][0m
+2024-05-22 11:24:55,561 [INFO] [mHTTP OPTIONS /tournament/get/14/ 200 [0.01, 127.0.0.1:54326][0m
+2024-05-22 11:24:55,615 [INFO] [mHTTP GET /tournament/get/14/ 200 [0.06, 127.0.0.1:57958][0m
+2024-05-22 11:24:55,621 [INFO] [mHTTP OPTIONS /team/list/?page=1&pageSize=10&search=&order=&tournamentId=14 200 [0.00, 127.0.0.1:54326][0m
+2024-05-22 11:24:55,675 [INFO] [mHTTP GET /tournament/get/14/ 200 [0.05, 127.0.0.1:57958][0m
+2024-05-22 11:24:55,752 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=14 200 [0.13, 127.0.0.1:54326][0m
+2024-05-22 11:24:57,323 [INFO] [mHTTP OPTIONS /match/match_fixture_list?tournamentId=14&page=1&pageSize=12 200 [0.00, 127.0.0.1:54326][0m
+2024-05-22 11:24:57,387 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=14&page=1&pageSize=12 200 [0.06, 127.0.0.1:54326][0m
+2024-05-22 11:24:57,431 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=34 200 [0.00, 127.0.0.1:54326][0m
+2024-05-22 11:24:57,507 [INFO] [mHTTP GET /team/get_team/?teamId=34 200 [0.07, 127.0.0.1:54326][0m
+2024-05-22 11:24:57,514 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=35 200 [0.00, 127.0.0.1:54326][0m
+2024-05-22 11:24:57,566 [INFO] [mHTTP GET /team/get_team/?teamId=35 200 [0.05, 127.0.0.1:54326][0m
+2024-05-22 11:25:00,077 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=14&page=1&pageSize=12 200 [0.03, 127.0.0.1:54326][0m
+2024-05-22 11:25:00,092 [INFO] [mHTTP GET /tournament/get/14/ 200 [0.04, 127.0.0.1:57958][0m
+2024-05-22 11:25:00,407 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=14 200 [0.27, 127.0.0.1:57958][0m
+2024-05-22 11:25:02,038 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=14&page=1&pageSize=12 200 [0.10, 127.0.0.1:57958][0m
+2024-05-22 11:25:02,126 [INFO] [mHTTP GET /team/get_team/?teamId=34 200 [0.05, 127.0.0.1:57958][0m
+2024-05-22 11:25:02,182 [INFO] [mHTTP GET /team/get_team/?teamId=35 200 [0.05, 127.0.0.1:57958][0m
+2024-05-22 11:25:03,581 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=14 200 [0.04, 127.0.0.1:57958][0m
+2024-05-22 11:25:06,788 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.15, 127.0.0.1:57958][0m
+2024-05-22 11:25:11,855 [INFO] [mHTTP OPTIONS /tournament/get/13/ 200 [0.00, 127.0.0.1:57958][0m
+2024-05-22 11:25:11,860 [INFO] [mHTTP OPTIONS /tournament/get/13/ 200 [0.00, 127.0.0.1:54326][0m
+2024-05-22 11:25:11,916 [INFO] [mHTTP OPTIONS /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.01, 127.0.0.1:54326][0m
+2024-05-22 11:25:11,939 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.02, 127.0.0.1:54326][0m
+2024-05-22 11:25:11,946 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.09, 127.0.0.1:57958][0m
+2024-05-22 11:25:11,963 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.01, 127.0.0.1:57958][0m
+2024-05-22 11:25:14,184 [INFO] [mHTTP OPTIONS /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.00, 127.0.0.1:57958][0m
+2024-05-22 11:25:14,201 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.01, 127.0.0.1:57958][0m
+2024-05-22 11:25:16,812 [INFO] [mHTTP OPTIONS /match/match_fixture 200 [0.00, 127.0.0.1:57958][0m
+2024-05-22 11:25:16,864 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 11:25:16,864 [WARNING] [31;1mHTTP POST /match/match_fixture 400 [0.05, 127.0.0.1:57958][0m
+2024-05-22 11:25:19,966 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 11:25:19,966 [WARNING] [31;1mHTTP POST /match/match_fixture 400 [0.02, 127.0.0.1:57958][0m
+2024-05-22 11:27:02,081 [INFO] /home/mithramohanan/score360/backend/match_management/validators.py changed, reloading.
+2024-05-22 11:27:08,127 [INFO] Watching for file changes with StatReloader
+2024-05-22 11:27:09,795 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 11:27:09,796 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 11:27:09,796 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 11:27:16,282 [INFO] [mHTTP POST /match/match_fixture 200 [1.34, 127.0.0.1:56066][0m
+2024-05-22 11:27:16,333 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:56066][0m
+2024-05-22 11:27:16,412 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=32 200 [0.00, 127.0.0.1:56066][0m
+2024-05-22 11:27:16,627 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.21, 127.0.0.1:56066][0m
+2024-05-22 11:27:16,634 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=33 200 [0.00, 127.0.0.1:56066][0m
+2024-05-22 11:27:16,785 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.15, 127.0.0.1:56066][0m
+2024-05-22 11:27:19,804 [INFO] [mHTTP OPTIONS /match/get_match?matchId=31 200 [0.00, 127.0.0.1:56066][0m
+2024-05-22 11:27:19,868 [INFO] [mHTTP GET /match/get_match?matchId=31 200 [0.06, 127.0.0.1:56066][0m
+2024-05-22 11:27:43,003 [INFO] [mHTTP OPTIONS /match/update_match_schedule 200 [0.01, 127.0.0.1:56066][0m
+2024-05-22 11:27:43,072 [INFO] [mHTTP GET /match/get_match?matchId=31 200 [0.07, 127.0.0.1:57706][0m
+2024-05-22 11:27:43,340 [INFO] [mHTTP PUT /match/update_match_schedule 200 [0.33, 127.0.0.1:56066][0m
+2024-05-22 11:27:51,357 [INFO] [mHTTP OPTIONS /match/toss 200 [0.00, 127.0.0.1:56066][0m
+2024-05-22 11:27:51,768 [INFO] [mHTTP PATCH /match/toss 200 [0.41, 127.0.0.1:56066][0m
+2024-05-22 11:27:51,831 [INFO] [mHTTP OPTIONS /match/get_squad?teamId=32 200 [0.00, 127.0.0.1:56066][0m
+2024-05-22 11:27:51,838 [INFO] [mHTTP OPTIONS /match/get_squad?teamId=33 200 [0.01, 127.0.0.1:57706][0m
+2024-05-22 11:27:52,341 [INFO] [mHTTP GET /match/get_squad?teamId=33 200 [0.50, 127.0.0.1:57706][0m
+2024-05-22 11:27:52,545 [INFO] [mHTTP GET /match/get_squad?teamId=32 200 [0.71, 127.0.0.1:56066][0m
+2024-05-22 11:28:21,616 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.02, 127.0.0.1:56066][0m
+2024-05-22 11:28:57,276 [INFO] [mHTTP OPTIONS /player/validate_email 200 [0.00, 127.0.0.1:56066][0m
+2024-05-22 11:29:00,866 [INFO] Registration link successfuly sent
+2024-05-22 11:29:00,869 [INFO] [mHTTP POST /player/validate_email 200 [3.59, 127.0.0.1:56066][0m
+2024-05-22 11:34:28,924 [INFO] [mHTTP OPTIONS /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pdGhyYW1vaGFuYW42MysyMEBnbWFpbC5jb20iLCJleHBpcnkiOjE3MTYzNzgyMzcuMjg2Nzk0fQ.tyzEt5ZCEIEYlCZrwtHXonXbPKX9vh_Ame7VX6SuqTo 200 [0.00, 127.0.0.1:40354][0m
+2024-05-22 11:34:33,485 [INFO] User account created successfully
+2024-05-22 11:34:33,488 [INFO] [mHTTP POST /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pdGhyYW1vaGFuYW42MysyMEBnbWFpbC5jb20iLCJleHBpcnkiOjE3MTYzNzgyMzcuMjg2Nzk0fQ.tyzEt5ZCEIEYlCZrwtHXonXbPKX9vh_Ame7VX6SuqTo 200 [4.56, 127.0.0.1:40354][0m
+2024-05-22 11:34:52,144 [INFO] Registration link successfuly sent
+2024-05-22 11:34:52,148 [INFO] [mHTTP POST /player/validate_email 200 [3.32, 127.0.0.1:40354][0m
+2024-05-22 11:35:05,050 [INFO] Registration link successfuly sent
+2024-05-22 11:35:05,053 [INFO] [mHTTP POST /player/validate_email 200 [3.54, 127.0.0.1:40354][0m
+2024-05-22 11:38:21,294 [INFO] [mHTTP OPTIONS /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pdGhyYW1vaGFuYW42MysyMUBnbWFpbC5jb20iLCJleHBpcnkiOjE3MTYzNzg1ODguODMzMzQ2fQ.B-CsUGcd-T1PPmeO7_ODlhLxtWMcn7W_iSExqhl8-G0 200 [0.00, 127.0.0.1:49304][0m
+2024-05-22 11:38:26,240 [INFO] User account created successfully
+2024-05-22 11:38:26,243 [INFO] [mHTTP POST /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pdGhyYW1vaGFuYW42MysyMUBnbWFpbC5jb20iLCJleHBpcnkiOjE3MTYzNzg1ODguODMzMzQ2fQ.B-CsUGcd-T1PPmeO7_ODlhLxtWMcn7W_iSExqhl8-G0 200 [4.95, 127.0.0.1:49304][0m
+2024-05-22 11:39:38,621 [INFO] [mHTTP OPTIONS /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pdGhyYW1vaGFuYW42MysyMkBnbWFpbC5jb20iLCJleHBpcnkiOjE3MTYzNzg2MDEuNTE1OTY3fQ.R9aH9bjrrSJbcJae4AYx8iuFiZmBJNDyV0YFWqB3XIg 200 [0.00, 127.0.0.1:49478][0m
+2024-05-22 11:39:42,927 [INFO] User account created successfully
+2024-05-22 11:39:42,930 [INFO] [mHTTP POST /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pdGhyYW1vaGFuYW42MysyMkBnbWFpbC5jb20iLCJleHBpcnkiOjE3MTYzNzg2MDEuNTE1OTY3fQ.R9aH9bjrrSJbcJae4AYx8iuFiZmBJNDyV0YFWqB3XIg 200 [4.31, 127.0.0.1:49478][0m
+2024-05-22 11:39:54,455 [INFO] Logged in successfully
+2024-05-22 11:39:54,458 [INFO] [mHTTP POST /player/login 200 [0.61, 127.0.0.1:49478][0m
+2024-05-22 11:39:54,576 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.02, 127.0.0.1:49478][0m
+2024-05-22 11:39:56,711 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.02, 127.0.0.1:49478][0m
+2024-05-22 11:39:56,750 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.03, 127.0.0.1:49478][0m
+2024-05-22 11:39:56,821 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.06, 127.0.0.1:49478][0m
+2024-05-22 11:39:58,970 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:49478][0m
+2024-05-22 11:39:59,055 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.01, 127.0.0.1:49478][0m
+2024-05-22 11:39:59,082 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:49478][0m
+2024-05-22 11:40:00,798 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.02, 127.0.0.1:49478][0m
+2024-05-22 11:40:02,526 [INFO] [mHTTP OPTIONS /team/get_players/?teamId=33 200 [0.01, 127.0.0.1:56084][0m
+2024-05-22 11:40:02,546 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.03, 127.0.0.1:49478][0m
+2024-05-22 11:40:02,715 [INFO] [mHTTP GET /team/get_players/?teamId=33 200 [0.18, 127.0.0.1:56084][0m
+2024-05-22 11:40:07,209 [INFO] [mHTTP GET /team/get_players/?teamId=33 200 [0.04, 127.0.0.1:56084][0m
+2024-05-22 11:40:09,283 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.01, 127.0.0.1:56084][0m
+2024-05-22 11:40:14,759 [INFO] [mHTTP OPTIONS /team/add_player/?teamId=32 200 [0.00, 127.0.0.1:56084][0m
+2024-05-22 11:40:15,261 [INFO] [mHTTP POST /team/add_player/?teamId=32 200 [0.50, 127.0.0.1:56084][0m
+2024-05-22 11:40:15,270 [INFO] [mHTTP OPTIONS /team/get_players/?teamId=32 200 [0.00, 127.0.0.1:56084][0m
+2024-05-22 11:40:15,421 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.08, 127.0.0.1:49478][0m
+2024-05-22 11:40:15,438 [WARNING] Bad Request: /team/get_players/
+2024-05-22 11:40:15,439 [WARNING] [31;1mHTTP GET /team/get_players/?teamId=32 400 [0.11, 127.0.0.1:56084][0m
+2024-05-22 11:40:18,311 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:56084][0m
+2024-05-22 11:40:18,361 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.01, 127.0.0.1:56084][0m
+2024-05-22 11:40:18,377 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:56084][0m
+2024-05-22 11:41:34,760 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.04, 127.0.0.1:46370][0m
+2024-05-22 11:41:35,666 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46370][0m
+2024-05-22 11:41:35,717 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.01, 127.0.0.1:46370][0m
+2024-05-22 11:41:35,732 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:46370][0m
+2024-05-22 11:41:38,145 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.03, 127.0.0.1:46370][0m
+2024-05-22 11:41:38,155 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.04, 127.0.0.1:46380][0m
+2024-05-22 11:41:38,214 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:41:39,534 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.05, 127.0.0.1:46380][0m
+2024-05-22 11:41:39,586 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.01, 127.0.0.1:46380][0m
+2024-05-22 11:41:39,607 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:46380][0m
+2024-05-22 11:41:43,440 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.01, 127.0.0.1:46380][0m
+2024-05-22 11:41:45,297 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:41:45,315 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:41:45,371 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.05, 127.0.0.1:46380][0m
+2024-05-22 11:41:47,315 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:41:47,364 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.01, 127.0.0.1:46380][0m
+2024-05-22 11:41:47,394 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:42:31,274 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:42:31,336 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.08, 127.0.0.1:46370][0m
+2024-05-22 11:42:31,363 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.02, 127.0.0.1:46370][0m
+2024-05-22 11:42:32,938 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.01, 127.0.0.1:46370][0m
+2024-05-22 11:42:34,143 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.02, 127.0.0.1:46370][0m
+2024-05-22 11:42:34,164 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.02, 127.0.0.1:46370][0m
+2024-05-22 11:42:34,193 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.02, 127.0.0.1:46370][0m
+2024-05-22 11:42:35,671 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46370][0m
+2024-05-22 11:42:35,760 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.04, 127.0.0.1:46370][0m
+2024-05-22 11:42:35,775 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:46370][0m
+2024-05-22 11:42:38,716 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.03, 127.0.0.1:46370][0m
+2024-05-22 11:43:01,017 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46370][0m
+2024-05-22 11:43:01,134 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.08, 127.0.0.1:46370][0m
+2024-05-22 11:43:01,152 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:46370][0m
+2024-05-22 11:43:02,801 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46370][0m
+2024-05-22 11:43:02,825 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.04, 127.0.0.1:46380][0m
+2024-05-22 11:43:02,876 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:43:04,077 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:43:04,140 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.01, 127.0.0.1:46380][0m
+2024-05-22 11:43:04,156 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:46380][0m
+2024-05-22 11:43:16,346 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.05, 127.0.0.1:46380][0m
+2024-05-22 11:43:18,647 [INFO] [mHTTP GET /tournament/get/14/ 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:43:18,666 [INFO] [mHTTP GET /tournament/get/14/ 200 [0.02, 127.0.0.1:46380][0m
+2024-05-22 11:43:18,745 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=14 200 [0.07, 127.0.0.1:46380][0m
+2024-05-22 11:43:21,855 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.01, 127.0.0.1:46380][0m
+2024-05-22 11:43:23,508 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.14, 127.0.0.1:46370][0m
+2024-05-22 11:43:23,841 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.50, 127.0.0.1:46380][0m
+2024-05-22 11:43:23,978 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.13, 127.0.0.1:46380][0m
+2024-05-22 11:43:25,860 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.21, 127.0.0.1:46380][0m
+2024-05-22 11:43:25,968 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.08, 127.0.0.1:46380][0m
+2024-05-22 11:43:26,104 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.13, 127.0.0.1:46380][0m
+2024-05-22 11:44:13,134 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.59, 127.0.0.1:46370][0m
+2024-05-22 11:44:13,278 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.74, 127.0.0.1:46380][0m
+2024-05-22 11:44:13,310 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.69, 127.0.0.1:45360][0m
+2024-05-22 11:44:14,706 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.13, 127.0.0.1:45360][0m
+2024-05-22 11:44:14,889 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.12, 127.0.0.1:45360][0m
+2024-05-22 11:44:15,142 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.25, 127.0.0.1:45360][0m
+2024-05-22 11:44:15,185 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.29, 127.0.0.1:46380][0m
+2024-05-22 11:44:15,274 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.09, 127.0.0.1:46380][0m
+2024-05-22 11:44:27,084 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.62, 127.0.0.1:46380][0m
+2024-05-22 11:44:27,107 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.64, 127.0.0.1:45360][0m
+2024-05-22 11:44:27,122 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.58, 127.0.0.1:46370][0m
+2024-05-22 11:44:28,655 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.14, 127.0.0.1:46370][0m
+2024-05-22 11:44:28,819 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.11, 127.0.0.1:46370][0m
+2024-05-22 11:44:29,045 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.22, 127.0.0.1:46370][0m
+2024-05-22 11:44:29,059 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.23, 127.0.0.1:45360][0m
+2024-05-22 11:44:29,257 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.20, 127.0.0.1:45360][0m
+2024-05-22 11:44:34,231 [INFO] [mHTTP OPTIONS /match/match_fixture_list?tournamentId=13&sort=3&page=1&pageSize=12 200 [0.00, 127.0.0.1:45360][0m
+2024-05-22 11:44:34,308 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&sort=3&page=1&pageSize=12 200 [0.07, 127.0.0.1:45360][0m
+2024-05-22 11:44:34,462 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.11, 127.0.0.1:45360][0m
+2024-05-22 11:44:34,618 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.15, 127.0.0.1:45360][0m
+2024-05-22 11:44:34,622 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.16, 127.0.0.1:46370][0m
+2024-05-22 11:44:34,908 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.28, 127.0.0.1:46370][0m
+2024-05-22 11:45:41,294 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.81, 127.0.0.1:60688][0m
+2024-05-22 11:45:41,306 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.82, 127.0.0.1:60698][0m
+2024-05-22 11:45:41,368 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.81, 127.0.0.1:60712][0m
+2024-05-22 11:45:42,313 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.12, 127.0.0.1:60712][0m
+2024-05-22 11:45:42,415 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.06, 127.0.0.1:60712][0m
+2024-05-22 11:45:42,458 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.04, 127.0.0.1:60712][0m
+2024-05-22 11:46:02,002 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.09, 127.0.0.1:60712][0m
+2024-05-22 11:46:03,470 [INFO] [mHTTP OPTIONS /player/user-data/ 200 [0.00, 127.0.0.1:60712][0m
+2024-05-22 11:46:03,583 [INFO] [mHTTP GET /player/user-data/ 200 [0.09, 127.0.0.1:60712][0m
+2024-05-22 11:46:28,734 [INFO] [mHTTP OPTIONS /tournament/create/ 200 [0.00, 127.0.0.1:60712][0m
+2024-05-22 11:46:29,447 [INFO] [mHTTP POST /tournament/create/ 200 [0.71, 127.0.0.1:60712][0m
+2024-05-22 11:46:30,027 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.51, 127.0.0.1:60712][0m
+2024-05-22 11:46:32,868 [INFO] [mHTTP OPTIONS /tournament/get/15/ 200 [0.01, 127.0.0.1:60712][0m
+2024-05-22 11:46:32,869 [INFO] [mHTTP OPTIONS /tournament/get/15/ 200 [0.01, 127.0.0.1:60698][0m
+2024-05-22 11:46:32,893 [INFO] [mHTTP GET /tournament/get/15/ 200 [0.02, 127.0.0.1:60712][0m
+2024-05-22 11:46:32,912 [INFO] [mHTTP GET /tournament/get/15/ 200 [0.02, 127.0.0.1:60712][0m
+2024-05-22 11:46:32,930 [INFO] [mHTTP OPTIONS /team/list/?page=1&pageSize=10&search=&order=&tournamentId=15 200 [0.00, 127.0.0.1:60712][0m
+2024-05-22 11:46:32,949 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=15 200 [0.02, 127.0.0.1:60712][0m
+2024-05-22 11:46:42,387 [INFO] [mHTTP OPTIONS /team/create/ 200 [0.00, 127.0.0.1:60712][0m
+2024-05-22 11:46:42,569 [INFO] [mHTTP POST /team/create/ 200 [0.18, 127.0.0.1:60712][0m
+2024-05-22 11:46:42,595 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=15 200 [0.02, 127.0.0.1:60712][0m
+2024-05-22 11:46:57,130 [INFO] [mHTTP POST /team/create/ 200 [0.12, 127.0.0.1:60712][0m
+2024-05-22 11:46:57,159 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=15 200 [0.02, 127.0.0.1:60712][0m
+2024-05-22 11:46:59,258 [INFO] [mHTTP OPTIONS /team/get_players/?teamId=37 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:46:59,261 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=37 200 [0.01, 127.0.0.1:60712][0m
+2024-05-22 11:46:59,285 [INFO] [mHTTP GET /team/get_team/?teamId=37 200 [0.02, 127.0.0.1:60712][0m
+2024-05-22 11:46:59,319 [INFO] [mHTTP GET /team/get_players/?teamId=37 200 [0.06, 127.0.0.1:60698][0m
+2024-05-22 11:47:11,353 [INFO] [mHTTP OPTIONS /team/add_player/?teamId=37 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:47:12,922 [INFO] [mHTTP POST /team/add_player/?teamId=37 200 [1.57, 127.0.0.1:60698][0m
+2024-05-22 11:47:12,951 [INFO] [mHTTP GET /team/get_players/?teamId=37 200 [0.02, 127.0.0.1:60698][0m
+2024-05-22 11:47:13,015 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=15 200 [0.02, 127.0.0.1:60698][0m
+2024-05-22 11:47:16,366 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=36 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:47:16,382 [INFO] [mHTTP GET /team/get_team/?teamId=36 200 [0.01, 127.0.0.1:60698][0m
+2024-05-22 11:47:28,327 [INFO] [mHTTP OPTIONS /team/add_player/?teamId=36 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:47:30,249 [INFO] [mHTTP POST /team/add_player/?teamId=36 200 [1.92, 127.0.0.1:60698][0m
+2024-05-22 11:47:30,262 [INFO] [mHTTP OPTIONS /team/get_players/?teamId=36 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:47:30,292 [WARNING] Bad Request: /team/get_players/
+2024-05-22 11:47:30,293 [WARNING] [31;1mHTTP GET /team/get_players/?teamId=36 400 [0.03, 127.0.0.1:60698][0m
+2024-05-22 11:47:30,361 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=15 200 [0.02, 127.0.0.1:60698][0m
+2024-05-22 11:47:36,225 [INFO] [mHTTP OPTIONS /match/match_fixture_list?tournamentId=15&page=1&pageSize=12 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:47:36,243 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=15&page=1&pageSize=12 200 [0.01, 127.0.0.1:60698][0m
+2024-05-22 11:47:39,578 [INFO] [mHTTP POST /match/match_fixture 200 [0.71, 127.0.0.1:60698][0m
+2024-05-22 11:47:39,625 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=15&page=1&pageSize=12 200 [0.02, 127.0.0.1:60698][0m
+2024-05-22 11:47:39,668 [INFO] [mHTTP GET /team/get_team/?teamId=36 200 [0.01, 127.0.0.1:60698][0m
+2024-05-22 11:47:39,683 [INFO] [mHTTP GET /team/get_team/?teamId=37 200 [0.01, 127.0.0.1:60698][0m
+2024-05-22 11:48:10,242 [INFO] [mHTTP OPTIONS /match/get_match?matchId=32 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:48:10,284 [INFO] [mHTTP GET /match/get_match?matchId=32 200 [0.04, 127.0.0.1:60698][0m
+2024-05-22 11:48:13,295 [INFO] [mHTTP GET /match/get_match?matchId=32 200 [0.03, 127.0.0.1:60698][0m
+2024-05-22 11:48:28,715 [INFO] [mHTTP GET /match/get_match?matchId=32 200 [0.02, 127.0.0.1:57092][0m
+2024-05-22 11:48:28,930 [INFO] [mHTTP PUT /match/update_match_schedule 200 [0.24, 127.0.0.1:60698][0m
+2024-05-22 11:48:37,709 [INFO] [mHTTP PATCH /match/toss 200 [0.15, 127.0.0.1:60698][0m
+2024-05-22 11:48:37,775 [INFO] [mHTTP OPTIONS /match/get_squad?teamId=36 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:48:37,781 [INFO] [mHTTP OPTIONS /match/get_squad?teamId=37 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:48:38,113 [INFO] [mHTTP GET /match/get_squad?teamId=36 200 [0.33, 127.0.0.1:57092][0m
+2024-05-22 11:48:38,215 [INFO] [mHTTP GET /match/get_squad?teamId=37 200 [0.43, 127.0.0.1:60698][0m
+2024-05-22 11:48:58,926 [INFO] [mHTTP OPTIONS /match/add_playing11/ 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:49:02,140 [INFO] [mHTTP POST /match/add_playing11/ 200 [3.21, 127.0.0.1:60698][0m
+2024-05-22 11:49:23,367 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:60690]
+2024-05-22 11:49:23,369 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:60690]
+2024-05-22 11:49:36,505 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:35370]
+2024-05-22 11:49:36,506 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:35370]
+2024-05-22 11:49:36,517 [INFO] [mHTTP OPTIONS /match/get_match_score?matchId=32 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:49:36,534 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.01, 127.0.0.1:60698][0m
+2024-05-22 11:49:36,559 [INFO] [mHTTP OPTIONS /score/match_score_data?matchId=32 200 [0.00, 127.0.0.1:60698][0m
+2024-05-22 11:49:36,649 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.09, 127.0.0.1:60698][0m
+2024-05-22 11:53:39,432 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:35370]
+2024-05-22 11:53:39,648 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59666]
+2024-05-22 11:53:39,650 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59666]
+2024-05-22 11:53:39,960 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.30, 127.0.0.1:59682][0m
+2024-05-22 11:53:40,337 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.37, 127.0.0.1:59682][0m
+2024-05-22 11:55:16,326 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59666]
+2024-05-22 11:55:16,481 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:58484]
+2024-05-22 11:55:16,484 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:58484]
+2024-05-22 11:55:16,832 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.35, 127.0.0.1:58500][0m
+2024-05-22 11:55:16,874 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.04, 127.0.0.1:58500][0m
+2024-05-22 11:56:04,919 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 11:56:05,687 [INFO] Watching for file changes with StatReloader
+2024-05-22 11:56:06,139 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 11:56:06,139 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 11:56:06,140 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 11:56:10,246 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 11:56:10,976 [INFO] Watching for file changes with StatReloader
+2024-05-22 11:56:11,191 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 11:56:11,191 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 11:56:11,192 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 11:56:55,161 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36178]
+2024-05-22 11:56:55,164 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36178]
+2024-05-22 11:56:55,243 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.08, 127.0.0.1:36188][0m
+2024-05-22 11:56:55,258 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.01, 127.0.0.1:36188][0m
+2024-05-22 11:56:55,917 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:36178]
+2024-05-22 11:56:56,051 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36192]
+2024-05-22 11:56:56,054 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36192]
+2024-05-22 11:56:56,083 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:36188][0m
+2024-05-22 11:56:56,350 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.26, 127.0.0.1:36188][0m
+2024-05-22 11:56:56,709 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:36192]
+2024-05-22 11:56:56,847 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36208]
+2024-05-22 11:56:56,849 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36208]
+2024-05-22 11:56:56,865 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:36188][0m
+2024-05-22 11:56:56,881 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.01, 127.0.0.1:36188][0m
+2024-05-22 11:56:57,306 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:36208]
+2024-05-22 11:56:57,426 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36220]
+2024-05-22 11:56:57,428 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36220]
+2024-05-22 11:56:57,452 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:36188][0m
+2024-05-22 11:56:57,643 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.18, 127.0.0.1:36188][0m
+2024-05-22 11:57:02,158 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36234]
+2024-05-22 11:57:02,159 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36234]
+2024-05-22 11:57:07,098 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:36220]
+2024-05-22 11:57:07,230 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:58650]
+2024-05-22 11:57:07,233 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:58650]
+2024-05-22 11:57:07,254 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:36188][0m
+2024-05-22 11:57:07,270 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.01, 127.0.0.1:36188][0m
+2024-05-22 12:05:39,185 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 12:05:39,928 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:05:40,358 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 12:05:40,359 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 12:05:40,360 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 12:05:45,528 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 12:05:46,268 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:05:48,892 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 12:05:49,660 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:05:53,216 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 12:05:54,011 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:05:54,413 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 12:05:54,413 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 12:05:54,414 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 12:06:42,643 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:60552]
+2024-05-22 12:06:42,646 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:60552]
+2024-05-22 12:06:42,672 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:60554][0m
+2024-05-22 12:06:42,693 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.01, 127.0.0.1:60554][0m
+2024-05-22 12:06:50,849 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:60728]
+2024-05-22 12:06:50,851 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:60728]
+2024-05-22 12:06:52,644 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:60552]
+2024-05-22 12:06:52,791 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:60734]
+2024-05-22 12:06:52,794 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:60734]
+2024-05-22 12:06:52,821 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:60554][0m
+2024-05-22 12:06:52,837 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.01, 127.0.0.1:60554][0m
+2024-05-22 12:09:30,085 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38468]
+2024-05-22 12:09:30,087 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38468]
+2024-05-22 12:09:30,152 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38468]
+2024-05-22 12:09:31,417 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38484]
+2024-05-22 12:09:31,419 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38484]
+2024-05-22 12:09:31,504 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38484]
+2024-05-22 12:09:32,393 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38492]
+2024-05-22 12:09:32,396 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38492]
+2024-05-22 12:09:32,485 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38492]
+2024-05-22 12:09:33,513 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38494]
+2024-05-22 12:09:33,516 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38494]
+2024-05-22 12:09:33,594 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38494]
+2024-05-22 12:09:34,793 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45270]
+2024-05-22 12:09:34,796 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45270]
+2024-05-22 12:09:34,869 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45270]
+2024-05-22 12:09:35,593 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45282]
+2024-05-22 12:09:35,596 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45282]
+2024-05-22 12:09:35,669 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45282]
+2024-05-22 12:09:36,322 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45288]
+2024-05-22 12:09:36,324 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45288]
+2024-05-22 12:09:36,399 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45288]
+2024-05-22 12:09:37,010 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45304]
+2024-05-22 12:09:37,012 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45304]
+2024-05-22 12:09:37,093 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45304]
+2024-05-22 12:09:37,698 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45308]
+2024-05-22 12:09:37,700 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45308]
+2024-05-22 12:09:37,772 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45308]
+2024-05-22 12:09:38,362 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45312]
+2024-05-22 12:09:38,364 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45312]
+2024-05-22 12:09:38,442 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45312]
+2024-05-22 12:09:45,231 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 12:09:45,968 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:09:46,175 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 12:09:46,175 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 12:09:46,176 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 12:09:49,461 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59334]
+2024-05-22 12:09:49,465 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59334]
+2024-05-22 12:09:49,539 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59334]
+2024-05-22 12:09:50,460 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59342]
+2024-05-22 12:09:50,463 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59342]
+2024-05-22 12:09:50,537 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59342]
+2024-05-22 12:09:51,204 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59348]
+2024-05-22 12:09:51,207 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59348]
+2024-05-22 12:09:51,285 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59348]
+2024-05-22 12:09:51,957 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59356]
+2024-05-22 12:09:51,959 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59356]
+2024-05-22 12:09:52,000 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59356]
+2024-05-22 12:09:52,629 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59370]
+2024-05-22 12:09:52,631 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59370]
+2024-05-22 12:09:52,713 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59370]
+2024-05-22 12:09:53,421 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59378]
+2024-05-22 12:09:53,423 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59378]
+2024-05-22 12:09:53,508 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59378]
+2024-05-22 12:09:54,317 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59380]
+2024-05-22 12:09:54,319 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59380]
+2024-05-22 12:09:54,404 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59380]
+2024-05-22 12:09:55,077 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45988]
+2024-05-22 12:09:55,080 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45988]
+2024-05-22 12:09:55,161 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45988]
+2024-05-22 12:10:16,744 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43424]
+2024-05-22 12:10:16,745 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43424]
+2024-05-22 12:10:18,651 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43428]
+2024-05-22 12:10:18,654 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43428]
+2024-05-22 12:10:18,679 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:43444][0m
+2024-05-22 12:10:18,747 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:43444][0m
+2024-05-22 12:11:15,897 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 12:11:16,642 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:11:16,857 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 12:11:16,857 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 12:11:16,858 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 12:11:46,125 [INFO] /home/mithramohanan/score360/backend/score_management/utils.py changed, reloading.
+2024-05-22 12:11:46,817 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:11:47,044 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 12:11:47,044 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 12:11:47,044 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 12:12:12,518 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53432]
+2024-05-22 12:12:12,521 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53432]
+2024-05-22 12:12:12,574 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.05, 127.0.0.1:53448][0m
+2024-05-22 12:12:12,604 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.02, 127.0.0.1:53448][0m
+2024-05-22 12:12:19,147 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:41668]
+2024-05-22 12:12:19,149 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:41668]
+2024-05-22 12:16:29,044 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53432]
+2024-05-22 12:16:29,197 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55910]
+2024-05-22 12:16:29,199 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55910]
+2024-05-22 12:16:29,221 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:16:29,291 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.06, 127.0.0.1:55914][0m
+2024-05-22 12:17:17,707 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55910]
+2024-05-22 12:17:17,867 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34416]
+2024-05-22 12:17:17,869 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34416]
+2024-05-22 12:17:17,997 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.12, 127.0.0.1:55914][0m
+2024-05-22 12:17:18,057 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.06, 127.0.0.1:55914][0m
+2024-05-22 12:17:20,077 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34416]
+2024-05-22 12:17:20,201 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34424]
+2024-05-22 12:17:20,204 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34424]
+2024-05-22 12:17:20,226 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:17:20,282 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:17:21,858 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34424]
+2024-05-22 12:17:21,984 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34428]
+2024-05-22 12:17:21,988 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34428]
+2024-05-22 12:17:22,011 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:55914][0m
+2024-05-22 12:17:22,070 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:17:22,874 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34428]
+2024-05-22 12:17:22,997 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34442]
+2024-05-22 12:17:23,000 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34442]
+2024-05-22 12:17:23,021 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:17:23,371 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.34, 127.0.0.1:55914][0m
+2024-05-22 12:17:24,194 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34442]
+2024-05-22 12:17:24,315 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34446]
+2024-05-22 12:17:24,318 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34446]
+2024-05-22 12:17:24,606 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.29, 127.0.0.1:55914][0m
+2024-05-22 12:17:24,660 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:17:25,314 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34446]
+2024-05-22 12:17:25,433 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34932]
+2024-05-22 12:17:25,436 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34932]
+2024-05-22 12:17:25,455 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:17:25,516 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:17:26,234 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34932]
+2024-05-22 12:17:26,347 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34940]
+2024-05-22 12:17:26,349 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34940]
+2024-05-22 12:17:26,372 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:17:26,552 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.17, 127.0.0.1:55914][0m
+2024-05-22 12:17:27,190 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34940]
+2024-05-22 12:17:27,319 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34952]
+2024-05-22 12:17:27,321 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34952]
+2024-05-22 12:17:27,344 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:17:27,399 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:17:28,147 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34952]
+2024-05-22 12:17:28,274 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34960]
+2024-05-22 12:17:28,277 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34960]
+2024-05-22 12:17:28,304 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:55914][0m
+2024-05-22 12:17:28,373 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.06, 127.0.0.1:55914][0m
+2024-05-22 12:17:29,030 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34960]
+2024-05-22 12:17:29,147 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34962]
+2024-05-22 12:17:29,149 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34962]
+2024-05-22 12:17:29,173 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:17:29,228 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:17:54,452 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34962]
+2024-05-22 12:17:54,590 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44146]
+2024-05-22 12:17:54,593 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44146]
+2024-05-22 12:17:55,001 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.41, 127.0.0.1:55914][0m
+2024-05-22 12:17:55,060 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:17:56,645 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44146]
+2024-05-22 12:17:56,779 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44160]
+2024-05-22 12:17:56,782 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44160]
+2024-05-22 12:17:56,803 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:55914][0m
+2024-05-22 12:17:56,895 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.09, 127.0.0.1:55914][0m
+2024-05-22 12:17:59,003 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44160]
+2024-05-22 12:17:59,149 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44164]
+2024-05-22 12:17:59,152 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44164]
+2024-05-22 12:17:59,171 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:17:59,227 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:18:00,398 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44164]
+2024-05-22 12:18:00,549 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44170]
+2024-05-22 12:18:00,554 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44170]
+2024-05-22 12:18:00,577 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:55914][0m
+2024-05-22 12:18:00,636 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:18:01,899 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44170]
+2024-05-22 12:18:02,024 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44186]
+2024-05-22 12:18:02,027 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44186]
+2024-05-22 12:18:02,044 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:18:02,102 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:18:02,803 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44186]
+2024-05-22 12:18:02,930 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44188]
+2024-05-22 12:18:02,933 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44188]
+2024-05-22 12:18:02,954 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:55914][0m
+2024-05-22 12:18:03,014 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:18:09,603 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44188]
+2024-05-22 12:18:09,736 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55014]
+2024-05-22 12:18:09,740 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55014]
+2024-05-22 12:18:09,764 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:55914][0m
+2024-05-22 12:18:09,824 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:55914][0m
+2024-05-22 12:19:17,048 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55014]
+2024-05-22 12:19:17,198 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53874]
+2024-05-22 12:19:17,200 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53874]
+2024-05-22 12:19:17,222 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:53888][0m
+2024-05-22 12:19:17,283 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:53888][0m
+2024-05-22 12:21:57,601 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53874]
+2024-05-22 12:21:57,754 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:56912]
+2024-05-22 12:21:57,755 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:56912]
+2024-05-22 12:21:58,114 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.06, 127.0.0.1:56918][0m
+2024-05-22 12:21:58,176 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.06, 127.0.0.1:56918][0m
+2024-05-22 12:32:25,620 [INFO] /home/mithramohanan/score360/backend/score_management/consumers.py changed, reloading.
+2024-05-22 12:32:26,392 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:32:31,005 [INFO] /home/mithramohanan/score360/backend/score_management/consumers.py changed, reloading.
+2024-05-22 12:32:31,712 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:32:35,259 [INFO] /home/mithramohanan/score360/backend/score_management/consumers.py changed, reloading.
+2024-05-22 12:32:35,959 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:32:38,492 [INFO] /home/mithramohanan/score360/backend/score_management/consumers.py changed, reloading.
+2024-05-22 12:32:39,231 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:32:39,453 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 12:32:39,453 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 12:32:39,454 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 12:32:42,796 [INFO] /home/mithramohanan/score360/backend/score_management/consumers.py changed, reloading.
+2024-05-22 12:32:43,554 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:33:26,560 [INFO] /home/mithramohanan/score360/backend/score_management/consumers.py changed, reloading.
+2024-05-22 12:33:27,350 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:33:27,600 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 12:33:27,601 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 12:33:27,601 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 12:33:29,927 [INFO] /home/mithramohanan/score360/backend/score_management/consumers.py changed, reloading.
+2024-05-22 12:33:30,679 [INFO] Watching for file changes with StatReloader
+2024-05-22 12:33:30,926 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-22 12:33:30,926 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-22 12:33:30,927 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-22 12:37:09,108 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:50640]
+2024-05-22 12:37:09,111 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:50640]
+2024-05-22 12:37:09,223 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.11, 127.0.0.1:50650][0m
+2024-05-22 12:37:09,275 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:50650][0m
+2024-05-22 12:37:21,218 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:48804]
+2024-05-22 12:37:21,222 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:48804]
+2024-05-22 12:37:21,255 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.04, 127.0.0.1:50650][0m
+2024-05-22 12:37:21,331 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.07, 127.0.0.1:50650][0m
+2024-05-22 12:37:27,808 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34234]
+2024-05-22 12:37:27,811 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34234]
+2024-05-22 12:37:27,849 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.04, 127.0.0.1:50650][0m
+2024-05-22 12:37:27,943 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.08, 127.0.0.1:50650][0m
+2024-05-22 12:37:28,847 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:48804]
+2024-05-22 12:37:28,848 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:50640]
+2024-05-22 12:37:28,848 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34234]
+2024-05-22 12:37:29,538 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34250]
+2024-05-22 12:37:29,539 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34250]
+2024-05-22 12:37:29,684 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.14, 127.0.0.1:50650][0m
+2024-05-22 12:37:29,847 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.16, 127.0.0.1:50650][0m
+2024-05-22 12:37:46,349 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34250]
+2024-05-22 12:39:15,258 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:48298]
+2024-05-22 12:39:15,260 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:48298]
+2024-05-22 12:39:15,281 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.01, 127.0.0.1:48314][0m
+2024-05-22 12:39:15,344 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:48314][0m
+2024-05-22 12:39:44,827 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:35778]
+2024-05-22 12:39:44,830 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:35778]
+2024-05-22 12:39:44,858 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.03, 127.0.0.1:48314][0m
+2024-05-22 12:39:44,863 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:35778]
+2024-05-22 12:39:44,866 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:48298]
+2024-05-22 12:39:45,591 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:35786]
+2024-05-22 12:39:45,592 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:35786]
+2024-05-22 12:39:45,617 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:48314][0m
+2024-05-22 12:39:45,685 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:48314][0m
+2024-05-22 12:39:51,697 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:35786]
+2024-05-22 12:39:51,864 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:35802]
+2024-05-22 12:39:51,867 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:35802]
+2024-05-22 12:39:51,890 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:48314][0m
+2024-05-22 12:39:51,942 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.04, 127.0.0.1:48314][0m
+2024-05-22 12:40:01,624 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:33300]
+2024-05-22 12:40:01,625 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:33300]
+2024-05-22 12:40:03,746 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:35802]
+2024-05-22 12:40:03,905 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:33302]
+2024-05-22 12:40:03,908 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:33302]
+2024-05-22 12:40:04,252 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.35, 127.0.0.1:48314][0m
+2024-05-22 12:40:04,339 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.08, 127.0.0.1:48314][0m
+2024-05-22 12:40:08,875 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:33798]
+2024-05-22 12:40:08,878 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:33798]
+2024-05-22 12:40:08,894 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:48314][0m
+2024-05-22 12:40:08,967 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.07, 127.0.0.1:48314][0m
+2024-05-22 12:40:29,491 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38644]
+2024-05-22 12:40:29,495 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38644]
+2024-05-22 12:40:29,510 [INFO] [mHTTP GET /match/get_match_score?matchId=32 200 [0.02, 127.0.0.1:48314][0m
+2024-05-22 12:40:29,560 [INFO] [mHTTP GET /score/match_score_data?matchId=32 200 [0.05, 127.0.0.1:48314][0m
+2024-05-22 12:46:23,028 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:33302]
+2024-05-22 12:46:25,347 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:33798]
+2024-05-22 12:46:25,348 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38644]
+2024-05-22 12:46:25,349 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:33300]
+2024-05-22 13:03:13,330 [WARNING] Bad Request: /match/add_playing11/
+2024-05-22 13:03:17,178 [WARNING] Bad Request: /match/add_playing11/
+2024-05-22 13:03:18,810 [WARNING] Not Found: /toss/
+2024-05-22 13:03:19,554 [WARNING] Not Found: /toss/
+2024-05-22 13:03:20,836 [WARNING] Bad Request: /match/get_match
+2024-05-22 13:03:21,594 [WARNING] Bad Request: /match/get_match
+2024-05-22 13:03:25,325 [WARNING] Not Found: /match/get_squad
+2024-05-22 13:03:26,215 [WARNING] Bad Request: /match/get_squad
+2024-05-22 13:03:28,223 [WARNING] Bad Request: /match/delete_match_fixture
+2024-05-22 13:03:30,009 [WARNING] Bad Request: /match/delete_match_fixture
+2024-05-22 13:03:31,429 [WARNING] Bad Request: /match/delete_match_fixture
+2024-05-22 13:03:37,328 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 13:03:39,943 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 13:03:41,899 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 13:03:50,882 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 13:03:54,065 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 13:03:56,536 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 13:03:58,963 [WARNING] Bad Request: /match/match_fixture
+2024-05-22 13:04:00,519 [WARNING] Bad Request: /match/match_fixture_list
+2024-05-22 13:04:01,449 [WARNING] Bad Request: /match/match_fixture_list
+2024-05-22 13:04:04,861 [WARNING] Bad Request: /team/add_player/
+2024-05-22 13:04:06,190 [WARNING] Bad Request: /team/add_player/
+2024-05-22 13:04:07,580 [WARNING] Not Found: /team/add_player/
+2024-05-22 13:04:08,819 [ERROR] Internal Server Error: /team/add_player/
+2024-05-22 13:04:12,547 [WARNING] Bad Request: /team/remove_player
+2024-05-22 13:04:14,930 [WARNING] Bad Request: /team/remove_player
+2024-05-22 13:04:22,472 [WARNING] Not Found: /team/get_team/
+2024-05-22 13:04:25,880 [WARNING] Bad Request: /team/team_players_list
+2024-05-22 13:04:26,385 [WARNING] Bad Request: /team/team_players_list
+2024-05-22 13:04:26,796 [WARNING] Bad Request: /team/team_players_list
+2024-05-22 13:04:27,374 [WARNING] Bad Request: /team/team_players_list
+2024-05-22 13:04:28,701 [WARNING] Bad Request: /team/create/
+2024-05-22 13:04:31,808 [WARNING] Not Found: /team/delete/
+2024-05-22 13:04:38,015 [WARNING] Bad Request: /tournament/create/
+2024-05-22 13:04:41,693 [ERROR] Internal Server Error: /tournament/create/
+2024-05-22 13:04:51,252 [WARNING] Not Found: /tournament/delete/
+2024-05-22 13:04:58,061 [WARNING] Not Found: /tournament/get/Tester1 Tournamendt/
+2024-05-22 13:05:00,237 [WARNING] Bad Request: /tournament/edit/
+2024-05-22 13:05:02,726 [ERROR] Validation error: {'errorCode': ['2003'], 'message': ['Invalid email format']}
+2024-05-22 13:05:02,726 [WARNING] Bad Request: /player/login
+2024-05-22 13:05:04,042 [ERROR] Invalid login credentials for email: avani@gmail.com
+2024-05-22 13:05:04,043 [WARNING] Bad Request: /player/login
+2024-05-22 13:05:05,252 [ERROR] Invalid login credentials for email: avan@gmail.com
+2024-05-22 13:05:05,252 [WARNING] Bad Request: /player/login
+2024-05-22 13:05:05,982 [ERROR] Validation error: {'errorCode': ['2003'], 'message': ['Invalid email format']}
+2024-05-22 13:05:05,983 [WARNING] Bad Request: /player/login
+2024-05-22 13:05:06,729 [ERROR] Validation error: {'errorCode': ['2001'], 'message': ['Email is not given']}
+2024-05-22 13:05:06,729 [WARNING] Bad Request: /player/login
+2024-05-22 13:05:08,415 [INFO] Logged in successfully
+2024-05-22 13:05:09,242 [WARNING] Bad Request: /player/change_password
+2024-05-22 13:05:10,512 [ERROR] Invalid current password
+2024-05-22 13:05:10,512 [WARNING] Bad Request: /player/change_password
+2024-05-22 13:05:11,174 [ERROR] validation error in change password
+2024-05-22 13:05:11,174 [WARNING] Bad Request: /player/change_password
+2024-05-22 13:05:12,377 [ERROR] Password is not matching with confirm password
+2024-05-22 13:05:12,378 [WARNING] Bad Request: /player/change_password
+2024-05-22 13:05:14,230 [INFO] Password changed successfully
+2024-05-22 13:05:15,576 [ERROR] Validation error
+2024-05-22 13:05:15,576 [WARNING] Bad Request: /player/validate_email
+2024-05-22 13:05:16,255 [ERROR] Validation error
+2024-05-22 13:05:16,256 [WARNING] Bad Request: /player/validate_email
+2024-05-22 13:05:17,074 [INFO] Registration link successfuly sent
+2024-05-22 13:05:17,151 [ERROR] Validation error: {'errorCode': ['2003'], 'message': ['Invalid email format']}
+2024-05-22 13:05:17,151 [WARNING] Bad Request: /player/forgot_password
+2024-05-22 13:05:17,228 [ERROR] Validation error: {'errorCode': ['2001'], 'message': ['Email is not given']}
+2024-05-22 13:05:17,229 [WARNING] Bad Request: /player/forgot_password
+2024-05-22 13:05:17,303 [ERROR] User with email mith@gmail.com not found
+2024-05-22 13:05:17,304 [WARNING] Bad Request: /player/forgot_password
+2024-05-22 13:05:17,591 [ERROR] Validation error: {'errorCode': ['2001'], 'message': ['Email is not given']}
+2024-05-22 13:05:17,592 [WARNING] Bad Request: /player/forgot_password
+2024-05-22 13:05:17,737 [INFO] Password reset link sent successfully to mithra@gmail.com
+2024-05-22 13:05:17,864 [ERROR] Invalid token
+2024-05-22 13:05:17,865 [WARNING] Bad Request: /player/link_validation
+2024-05-22 13:05:17,988 [ERROR] User does not exist
+2024-05-22 13:05:17,989 [WARNING] Bad Request: /player/link_validation
+2024-05-22 13:05:18,069 [ERROR] User does not exist
+2024-05-22 13:05:18,070 [WARNING] Bad Request: /player/link_validation
+2024-05-22 13:05:18,283 [INFO] valid token
+2024-05-22 13:05:18,497 [WARNING] Bad Request: /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkYXJzaHZhcmdoZXNlYWFhQGdtYWlsLmNvbSIsImV4cGlyeSI6MTc5ODk3MDEzMC4zMDY4OTZ9.tPbNlKQgC1UAyOtFo2mZCi9wHfRACNFlm8I-NZTdGqw
+2024-05-22 13:05:18,511 [WARNING] Bad Request: /player/register/token
+2024-05-22 13:05:18,568 [WARNING] Bad Request: /player/register/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkYXJzaHZhcmdoZXNlYWFhQGdtYWlsLmNvbSIsImV4cGlyeSI6MTc5ODk3MDEzMC4zMDY4OTZ9.tPbNlKQgC1UAyOtFo2mZCi9wHfRACNFlm8I-NZTdGqw
+2024-05-22 13:05:18,583 [ERROR] Password is not matching
+2024-05-22 13:05:18,583 [WARNING] Bad Request: /player/reset_password
+2024-05-22 13:05:18,680 [ERROR] validation error in reset password
+2024-05-22 13:05:18,681 [WARNING] Bad Request: /player/reset_password
+2024-05-22 13:05:18,721 [ERROR] Invalid token
+2024-05-22 13:05:18,722 [WARNING] Bad Request: /player/reset_password
+2024-05-22 13:05:18,938 [ERROR] No user found
+2024-05-22 13:05:18,939 [WARNING] Bad Request: /player/reset_password
+2024-05-22 13:05:19,667 [INFO] Password rest successfully
+2024-05-22 13:05:19,671 [WARNING] Bad Request: /player/reset_password
+2024-05-22 13:05:21,189 [INFO] Password rest successfully

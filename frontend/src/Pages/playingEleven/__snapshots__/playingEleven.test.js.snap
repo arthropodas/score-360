@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlayingEleven Component renders PlayingEleven component correctly 1`] = `
+<div>
+  <div
+    class="container MuiBox-root css-1yh90lj"
+  >
+    <div
+      class="MuiBox-root css-kbk2hk"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1a9fpgg-MuiTypography-root"
+      >
+        <b>
+          Playing 11
+        </b>
+      </p>
+    </div>
+    <div
+      class="MuiBox-root css-1uemltz"
+    >
+      <div
+        class="team1 MuiBox-root css-1c9tozj"
+      >
+        <div
+          class="MuiBox-root css-kl1xo3"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            Team 1
+          </p>
+        </div>
+        <div
+          class="MuiBox-root css-sszhsl"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-6dc9vr-MuiTypography-root"
+          >
+            No players to display
+          </p>
+        </div>
+      </div>
+      <div
+        class="team2 MuiBox-root css-1c9tozj"
+      >
+        <div
+          class="MuiBox-root css-kl1xo3"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            Team 2
+          </p>
+        </div>
+        <div
+          class="MuiBox-root css-sszhsl"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-6dc9vr-MuiTypography-root"
+          >
+            No players to display
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-1l4w6pd"
+    >
+      <div
+        class="MuiBox-root css-15gfldf"
+      >
+        <div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-zxijvj-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="submit"
+          >
+            Cancel 
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiBox-root css-0"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-8xv09s-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="submit"
+          >
+            Add
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PlayingEleven Component renders correctly 1`] = `
+<div>
+  <div
+    class="container MuiBox-root css-1yh90lj"
+  >
+    <div
+      class="MuiBox-root css-kbk2hk"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1a9fpgg-MuiTypography-root"
+      >
+        <b>
+          Playing 11
+        </b>
+      </p>
+    </div>
+    <div
+      class="MuiBox-root css-1uemltz"
+    >
+      <div
+        class="team1 MuiBox-root css-1c9tozj"
+      >
+        <div
+          class="MuiBox-root css-kl1xo3"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            Team 1
+          </p>
+        </div>
+        <div
+          class="MuiBox-root css-sszhsl"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-6dc9vr-MuiTypography-root"
+          >
+            No players to display
+          </p>
+        </div>
+      </div>
+      <div
+        class="team2 MuiBox-root css-1c9tozj"
+      >
+        <div
+          class="MuiBox-root css-kl1xo3"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            Team 2
+          </p>
+        </div>
+        <div
+          class="MuiBox-root css-sszhsl"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-6dc9vr-MuiTypography-root"
+          >
+            No players to display
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-1l4w6pd"
+    >
+      <div
+        class="MuiBox-root css-15gfldf"
+      >
+        <div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-zxijvj-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="submit"
+          >
+            Cancel 
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiBox-root css-0"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-8xv09s-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="submit"
+          >
+            Add
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

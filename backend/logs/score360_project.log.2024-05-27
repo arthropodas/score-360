@@ -1,0 +1,13 @@
+2024-05-27 03:32:45,286 [INFO] Watching for file changes with StatReloader
+2024-05-27 03:32:48,186 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-27 03:32:48,187 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-27 03:32:48,188 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-27 03:33:04,848 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45480]
+2024-05-27 03:33:04,853 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45480]
+2024-05-27 03:35:01,661 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45480]
+2024-05-27 03:35:05,895 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:60108]
+2024-05-27 03:35:05,896 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:60108]
+2024-05-27 03:35:22,675 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:60108]
+2024-05-27 03:35:26,106 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:60174]
+2024-05-27 03:35:26,108 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:60174]
+2024-05-27 03:39:16,463 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:60174]

@@ -1,0 +1,78 @@
+2024-05-31 05:26:58,542 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:42022]
+2024-05-31 05:26:58,653 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:42022]
+2024-05-31 05:26:58,658 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:42022]
+2024-05-31 06:24:36,675 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53232]
+2024-05-31 06:24:36,677 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53232]
+2024-05-31 06:24:36,681 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53232]
+2024-05-31 06:43:08,687 [INFO] [mHTTP OPTIONS /team/list/?page=1&pageSize=10&search=&order=&tournamentId=18 200 [0.00, 127.0.0.1:60424][0m
+2024-05-31 06:43:08,697 [WARNING] Unauthorized: /team/list/
+2024-05-31 06:43:08,698 [WARNING] [31;1mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=18 401 [0.01, 127.0.0.1:60424][0m
+2024-05-31 06:43:08,726 [INFO] [mHTTP OPTIONS //player/login/refresh 200 [0.00, 127.0.0.1:60424][0m
+2024-05-31 06:43:08,733 [WARNING] Not Found: //player/login/refresh
+2024-05-31 06:43:08,734 [WARNING] [33mHTTP POST //player/login/refresh 404 [0.01, 127.0.0.1:60424][0m
+2024-05-31 06:43:08,746 [WARNING] Unauthorized: /team/list/
+2024-05-31 06:43:08,746 [WARNING] [31;1mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=18 401 [0.01, 127.0.0.1:60424][0m
+2024-05-31 06:43:09,628 [INFO] [mHTTP OPTIONS /match/match_fixture_list?tournamentId=18&page=1&pageSize=12 200 [0.00, 127.0.0.1:60424][0m
+2024-05-31 06:43:09,638 [WARNING] Unauthorized: /match/match_fixture_list
+2024-05-31 06:43:09,639 [WARNING] [31;1mHTTP GET /match/match_fixture_list?tournamentId=18&page=1&pageSize=12 401 [0.01, 127.0.0.1:60424][0m
+2024-05-31 06:43:21,233 [INFO] [mHTTP OPTIONS /player/login 200 [0.00, 127.0.0.1:60424][0m
+2024-05-31 06:43:21,878 [INFO] Logged in successfully
+2024-05-31 06:43:21,882 [INFO] [mHTTP POST /player/login 200 [0.65, 127.0.0.1:60424][0m
+2024-05-31 06:43:22,011 [INFO] [mHTTP OPTIONS /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.00, 127.0.0.1:60424][0m
+2024-05-31 06:43:22,030 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.02, 127.0.0.1:60424][0m
+2024-05-31 06:43:23,413 [INFO] [mHTTP OPTIONS /tournament/get/18/ 200 [0.00, 127.0.0.1:60424][0m
+2024-05-31 06:43:23,439 [INFO] [mHTTP GET /tournament/get/18/ 200 [0.02, 127.0.0.1:60424][0m
+2024-05-31 06:43:23,461 [INFO] [mHTTP GET /tournament/get/18/ 200 [0.02, 127.0.0.1:60424][0m
+2024-05-31 06:43:23,497 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=18 200 [0.02, 127.0.0.1:60424][0m
+2024-05-31 06:43:24,729 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=18&page=1&pageSize=12 200 [0.02, 127.0.0.1:60424][0m
+2024-05-31 06:43:24,842 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=42 200 [0.00, 127.0.0.1:60424][0m
+2024-05-31 06:43:24,860 [INFO] [mHTTP GET /team/get_team/?teamId=42 200 [0.01, 127.0.0.1:60424][0m
+2024-05-31 06:43:24,868 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=43 200 [0.00, 127.0.0.1:60424][0m
+2024-05-31 06:43:24,883 [INFO] [mHTTP GET /team/get_team/?teamId=43 200 [0.01, 127.0.0.1:60424][0m
+2024-05-31 06:44:59,426 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.02, 127.0.0.1:38154][0m
+2024-05-31 06:48:45,516 [INFO] WebSocket HANDSHAKING /score/updatecore/ [127.0.0.1:42322]
+2024-05-31 06:48:45,626 [ERROR] Exception inside application: No route found for path 'score/updatecore/'.
+Traceback (most recent call last):
+  File "/home/mithramohanan/Documents/gitlab/Cricket/backend/cricenv/lib/python3.10/site-packages/channels/routing.py", line 62, in __call__
+    return await application(scope, receive, send)
+  File "/home/mithramohanan/Documents/gitlab/Cricket/backend/cricenv/lib/python3.10/site-packages/channels/sessions.py", line 47, in __call__
+    return await self.inner(dict(scope, cookies=cookies), receive, send)
+  File "/home/mithramohanan/Documents/gitlab/Cricket/backend/cricenv/lib/python3.10/site-packages/channels/sessions.py", line 263, in __call__
+    return await self.inner(wrapper.scope, receive, wrapper.send)
+  File "/home/mithramohanan/Documents/gitlab/Cricket/backend/cricenv/lib/python3.10/site-packages/channels/auth.py", line 185, in __call__
+    return await super().__call__(scope, receive, send)
+  File "/home/mithramohanan/Documents/gitlab/Cricket/backend/cricenv/lib/python3.10/site-packages/channels/middleware.py", line 24, in __call__
+    return await self.inner(scope, receive, send)
+  File "/home/mithramohanan/Documents/gitlab/Cricket/backend/cricenv/lib/python3.10/site-packages/channels/routing.py", line 150, in __call__
+    raise ValueError("No route found for path %r." % path)
+ValueError: No route found for path 'score/updatecore/'.
+2024-05-31 06:48:45,747 [INFO] WebSocket DISCONNECT /score/updatecore/ [127.0.0.1:42322]
+2024-05-31 07:00:56,935 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:46608]
+2024-05-31 07:00:56,937 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:46608]
+2024-05-31 07:00:56,942 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:46608]
+2024-05-31 08:50:08,188 [INFO] /home/mithramohanan/score360/backend/score360/settings.py changed, reloading.
+2024-05-31 09:05:28,466 [INFO] Starting server at tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:05:28,466 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-31 09:05:28,467 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:05:28,467 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-31 09:05:48,548 [INFO] Killed 0 pending application instances
+2024-05-31 09:05:51,425 [INFO] Starting server at tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:05:51,425 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-31 09:05:51,425 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:05:51,426 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-31 09:06:01,410 [INFO] Killed 0 pending application instances
+2024-05-31 09:06:38,247 [INFO] Starting server at tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:06:38,248 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-31 09:06:38,248 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:06:38,249 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-31 09:09:44,267 [INFO] Killed 0 pending application instances
+2024-05-31 09:09:46,404 [INFO] Starting server at tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:09:46,404 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-31 09:09:46,405 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:09:46,405 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-31 09:36:41,103 [INFO] Killed 0 pending application instances
+2024-05-31 09:36:43,646 [INFO] Starting server at tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:36:43,647 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-31 09:36:43,647 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-31 09:36:43,647 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-31 09:36:52,466 [INFO] Killed 0 pending application instances

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Score360</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #555;
+    }
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      background-color: #c4330a;
+      color: #000000;
+      border-radius: 5px;
+    }   
+    #links{
+      text-decoration: none;
+      text-decoration-color: none;
+      color:#f4f4f4
+    }
+     a[href] {
+    color: #fff;
+}
+  </style>
+</head>
+<body>
+  <div class="container">
+    
+   <p>Dear {{name}},</p> <br>
+
+<p>    We are pleased to inform you that you have been successfully added to a team for the upcoming tournament {{tournament}}. Congratulations!
+    
+    </p>
+    <p>
+      Team Name: {{team}}<br>
+    Tournament: {{tournament}}
+    </p>
+    
+    <p>
+        Your participation is crucial to the success of our team, and we are thrilled to have you on board. We believe that your skills and dedication will greatly contribute to our performance in the tournament.
+    
+    Please make sure to familiarize yourself with the tournament schedule and any additional information provided. We will be in touch with further updates and details regarding team meetings, practice sessions, and any other important announcements.
+    
+    If you have any questions or concerns, feel free to reach out to us .
+    </p>
+    
+<p>    Once again, congratulations on joining the team, and we look forward to achieving great success together in the tournament!
+</p>    
+ 
+<p>
+    Best regards,<br>
+    Team Score360<br>
+  
+</p>
+  
+  </div>
+</body>
+</html>

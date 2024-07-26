@@ -1,0 +1,627 @@
+2024-05-24 03:43:03,682 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:56000]
+2024-05-24 03:43:03,757 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:56000]
+2024-05-24 03:43:03,769 [INFO] [mHTTP OPTIONS /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.01, 127.0.0.1:56014][0m
+2024-05-24 03:43:03,772 [INFO] [mHTTP OPTIONS /score/match_score_data?matchId=33 200 [0.02, 127.0.0.1:56022][0m
+2024-05-24 03:43:03,802 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.03, 127.0.0.1:56014][0m
+2024-05-24 03:43:03,839 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.06, 127.0.0.1:56022][0m
+2024-05-24 03:43:43,300 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38896]
+2024-05-24 03:43:43,384 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38896]
+2024-05-24 03:43:43,791 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38900]
+2024-05-24 03:43:43,792 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38900]
+2024-05-24 03:43:43,808 [INFO] [mHTTP OPTIONS /match/get_match_score?matchId=33 200 [0.01, 127.0.0.1:56022][0m
+2024-05-24 03:43:43,845 [INFO] [mHTTP GET /match/get_match_score?matchId=33 200 [0.02, 127.0.0.1:56022][0m
+2024-05-24 03:43:43,924 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.06, 127.0.0.1:56022][0m
+2024-05-24 03:44:21,264 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34394]
+2024-05-24 03:44:21,266 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34394]
+2024-05-24 03:45:17,167 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:40824]
+2024-05-24 03:45:17,172 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:40824]
+2024-05-24 03:45:17,230 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.06, 127.0.0.1:40838][0m
+2024-05-24 03:45:17,240 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:40848][0m
+2024-05-24 03:45:20,611 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:40858]
+2024-05-24 03:45:20,614 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:40858]
+2024-05-24 03:45:20,654 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.05, 127.0.0.1:40848][0m
+2024-05-24 03:45:20,773 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.17, 127.0.0.1:40838][0m
+2024-05-24 03:45:22,419 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:40866]
+2024-05-24 03:45:22,422 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:40866]
+2024-05-24 03:45:27,143 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:40858]
+2024-05-24 03:45:27,143 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:56000]
+2024-05-24 03:45:27,144 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:40866]
+2024-05-24 03:45:27,145 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:42628]
+2024-05-24 03:45:27,145 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34394]
+2024-05-24 03:45:27,145 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38896]
+2024-05-24 03:45:27,145 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53148]
+2024-05-24 03:45:27,146 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55056]
+2024-05-24 03:45:27,146 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:52828]
+2024-05-24 03:45:27,147 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:40824]
+2024-05-24 03:45:28,357 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.02, 127.0.0.1:40838][0m
+2024-05-24 03:45:28,362 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:50218]
+2024-05-24 03:45:28,365 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:50218]
+2024-05-24 03:45:28,537 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.16, 127.0.0.1:40838][0m
+2024-05-24 03:45:32,018 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.06, 127.0.0.1:40838][0m
+2024-05-24 03:45:32,062 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.10, 127.0.0.1:40848][0m
+2024-05-24 03:45:37,645 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.04, 127.0.0.1:40848][0m
+2024-05-24 03:45:37,687 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.08, 127.0.0.1:40838][0m
+2024-05-24 03:46:03,463 [INFO] Watching for file changes with StatReloader
+2024-05-24 03:46:05,862 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-24 03:46:05,863 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-24 03:46:05,863 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-24 03:46:18,958 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:52714]
+2024-05-24 03:46:18,962 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:52714]
+2024-05-24 03:46:21,572 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:52716]
+2024-05-24 03:46:21,574 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:52716]
+2024-05-24 03:46:26,077 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.09, 127.0.0.1:38850][0m
+2024-05-24 03:46:26,091 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.10, 127.0.0.1:38856][0m
+2024-05-24 03:46:32,681 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.05, 127.0.0.1:38856][0m
+2024-05-24 03:46:32,734 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.10, 127.0.0.1:38850][0m
+2024-05-24 03:46:38,729 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:52714]
+2024-05-24 03:46:38,729 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:52716]
+2024-05-24 03:46:39,493 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47788]
+2024-05-24 03:46:39,495 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47788]
+2024-05-24 03:46:39,545 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.04, 127.0.0.1:38850][0m
+2024-05-24 03:46:39,580 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:38856][0m
+2024-05-24 03:46:42,596 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47788]
+2024-05-24 03:46:42,938 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47798]
+2024-05-24 03:46:42,940 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47798]
+2024-05-24 03:46:42,994 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.03, 127.0.0.1:38850][0m
+2024-05-24 03:46:43,044 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.08, 127.0.0.1:38856][0m
+2024-05-24 03:46:44,946 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47798]
+2024-05-24 03:46:45,275 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55834]
+2024-05-24 03:46:45,277 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55834]
+2024-05-24 03:46:45,360 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.07, 127.0.0.1:38856][0m
+2024-05-24 03:46:45,441 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.15, 127.0.0.1:38850][0m
+2024-05-24 03:46:47,155 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55834]
+2024-05-24 03:46:47,470 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55844]
+2024-05-24 03:46:47,472 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55844]
+2024-05-24 03:46:47,540 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.06, 127.0.0.1:38850][0m
+2024-05-24 03:46:47,575 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.10, 127.0.0.1:38856][0m
+2024-05-24 03:46:50,301 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55844]
+2024-05-24 03:46:50,592 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55854]
+2024-05-24 03:46:50,594 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55854]
+2024-05-24 03:46:50,651 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.04, 127.0.0.1:38856][0m
+2024-05-24 03:46:50,683 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:38850][0m
+2024-05-24 03:46:51,903 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55854]
+2024-05-24 03:46:52,188 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55856]
+2024-05-24 03:46:52,190 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55856]
+2024-05-24 03:46:52,359 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.05, 127.0.0.1:38850][0m
+2024-05-24 03:46:52,399 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.09, 127.0.0.1:38856][0m
+2024-05-24 03:46:55,384 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55856]
+2024-05-24 03:46:55,718 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:37528]
+2024-05-24 03:46:55,719 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:37528]
+2024-05-24 03:46:55,833 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:38850][0m
+2024-05-24 03:46:55,989 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.23, 127.0.0.1:38856][0m
+2024-05-24 03:49:47,271 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:37528]
+2024-05-24 03:49:47,613 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:48338]
+2024-05-24 03:49:47,614 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:48338]
+2024-05-24 03:49:47,656 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.03, 127.0.0.1:48352][0m
+2024-05-24 03:49:47,717 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.08, 127.0.0.1:48362][0m
+2024-05-24 03:49:51,663 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:48338]
+2024-05-24 03:49:52,016 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:48366]
+2024-05-24 03:49:52,017 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:48366]
+2024-05-24 03:49:52,122 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.09, 127.0.0.1:48352][0m
+2024-05-24 03:49:52,133 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.11, 127.0.0.1:48362][0m
+2024-05-24 03:49:53,866 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:48366]
+2024-05-24 03:49:54,197 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:48380]
+2024-05-24 03:49:54,199 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:48380]
+2024-05-24 03:49:54,294 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.09, 127.0.0.1:48362][0m
+2024-05-24 03:49:54,340 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.13, 127.0.0.1:48352][0m
+2024-05-24 03:49:56,820 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:48380]
+2024-05-24 03:49:57,133 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:57218]
+2024-05-24 03:49:57,135 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:57218]
+2024-05-24 03:49:57,169 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.02, 127.0.0.1:48352][0m
+2024-05-24 03:49:57,247 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:48362][0m
+2024-05-24 03:49:57,813 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:57218]
+2024-05-24 03:49:58,146 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:57224]
+2024-05-24 03:49:58,148 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:57224]
+2024-05-24 03:49:58,219 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.06, 127.0.0.1:48362][0m
+2024-05-24 03:49:58,233 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:48352][0m
+2024-05-24 03:50:09,562 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:51664]
+2024-05-24 03:50:09,563 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:51664]
+2024-05-24 03:50:09,604 [INFO] [mHTTP GET /match/get_match_score?matchId=33 200 [0.02, 127.0.0.1:48352][0m
+2024-05-24 03:50:09,694 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:48352][0m
+2024-05-24 03:50:18,382 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:57224]
+2024-05-24 03:50:18,768 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:39786]
+2024-05-24 03:50:18,770 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:39786]
+2024-05-24 03:50:18,913 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.13, 127.0.0.1:48352][0m
+2024-05-24 03:50:18,980 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.20, 127.0.0.1:48362][0m
+2024-05-24 03:50:32,268 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:39786]
+2024-05-24 03:50:32,662 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43888]
+2024-05-24 03:50:32,663 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43888]
+2024-05-24 03:50:32,721 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.04, 127.0.0.1:48362][0m
+2024-05-24 03:50:32,757 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:48352][0m
+2024-05-24 03:50:35,533 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:43888]
+2024-05-24 03:50:35,907 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53072]
+2024-05-24 03:50:35,909 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53072]
+2024-05-24 03:50:35,947 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.03, 127.0.0.1:48352][0m
+2024-05-24 03:50:35,994 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:48362][0m
+2024-05-24 03:51:12,251 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53072]
+2024-05-24 03:51:12,631 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:52580]
+2024-05-24 03:51:12,633 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:52580]
+2024-05-24 03:51:12,698 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.03, 127.0.0.1:48362][0m
+2024-05-24 03:51:12,764 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.07, 127.0.0.1:48352][0m
+2024-05-24 03:53:28,199 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:52580]
+2024-05-24 03:53:28,784 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36646]
+2024-05-24 03:53:28,787 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36646]
+2024-05-24 03:53:28,848 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=33 200 [0.04, 127.0.0.1:36660][0m
+2024-05-24 03:53:28,897 [INFO] [mHTTP GET /score/match_score_data?matchId=33 200 [0.09, 127.0.0.1:36676][0m
+2024-05-24 03:53:33,975 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:36646]
+2024-05-24 03:54:03,892 [INFO] Watching for file changes with StatReloader
+2024-05-24 03:54:04,124 [INFO] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2024-05-24 03:54:04,124 [INFO] Configuring endpoint tcp:port=8000:interface=127.0.0.1
+2024-05-24 03:54:04,125 [INFO] Listening on TCP address 127.0.0.1:8000
+2024-05-24 03:54:44,176 [INFO] [mHTTP OPTIONS /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.00, 127.0.0.1:45842][0m
+2024-05-24 03:54:44,421 [INFO] [mHTTP GET /tournament/tournaments/?page=1&pageSize=10&search=&category=&id=1&sortTerm= 200 [0.24, 127.0.0.1:45842][0m
+2024-05-24 03:55:22,840 [INFO] [mHTTP OPTIONS /tournament/get/13/ 200 [0.00, 127.0.0.1:45842][0m
+2024-05-24 03:55:22,848 [INFO] [mHTTP OPTIONS /tournament/get/13/ 200 [0.00, 127.0.0.1:45842][0m
+2024-05-24 03:55:22,903 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.05, 127.0.0.1:34716][0m
+2024-05-24 03:55:22,923 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.02, 127.0.0.1:34716][0m
+2024-05-24 03:55:22,938 [INFO] [mHTTP OPTIONS /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.00, 127.0.0.1:34716][0m
+2024-05-24 03:55:23,025 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.08, 127.0.0.1:34716][0m
+2024-05-24 03:55:24,511 [INFO] [mHTTP OPTIONS /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.00, 127.0.0.1:34716][0m
+2024-05-24 03:55:24,567 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.05, 127.0.0.1:34716][0m
+2024-05-24 03:55:27,873 [INFO] [mHTTP OPTIONS /match/match_fixture 200 [0.00, 127.0.0.1:34716][0m
+2024-05-24 03:55:28,506 [INFO] [mHTTP POST /match/match_fixture 200 [0.63, 127.0.0.1:34716][0m
+2024-05-24 03:55:28,562 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:34716][0m
+2024-05-24 03:55:28,610 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=32 200 [0.00, 127.0.0.1:34716][0m
+2024-05-24 03:55:28,660 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.05, 127.0.0.1:34716][0m
+2024-05-24 03:55:28,667 [INFO] [mHTTP OPTIONS /team/get_team/?teamId=33 200 [0.00, 127.0.0.1:34716][0m
+2024-05-24 03:55:28,679 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:34716][0m
+2024-05-24 03:55:31,638 [INFO] [mHTTP OPTIONS /match/get_match?matchId=34 200 [0.00, 127.0.0.1:34716][0m
+2024-05-24 03:55:31,657 [INFO] [mHTTP GET /match/get_match?matchId=34 200 [0.02, 127.0.0.1:34716][0m
+2024-05-24 03:56:10,135 [INFO] [mHTTP OPTIONS /match/update_match_schedule 200 [0.01, 127.0.0.1:34716][0m
+2024-05-24 03:56:10,418 [INFO] [mHTTP PUT /match/update_match_schedule 200 [0.28, 127.0.0.1:34716][0m
+2024-05-24 03:56:10,442 [INFO] [mHTTP GET /match/get_match?matchId=34 200 [0.31, 127.0.0.1:45842][0m
+2024-05-24 03:56:29,127 [INFO] [mHTTP OPTIONS /match/toss 200 [0.00, 127.0.0.1:45842][0m
+2024-05-24 03:56:29,665 [INFO] [mHTTP PATCH /match/toss 200 [0.54, 127.0.0.1:45842][0m
+2024-05-24 03:56:29,719 [INFO] [mHTTP OPTIONS /match/get_squad?teamId=32 200 [0.00, 127.0.0.1:45842][0m
+2024-05-24 03:56:29,722 [INFO] [mHTTP OPTIONS /match/get_squad?teamId=33 200 [0.01, 127.0.0.1:34716][0m
+2024-05-24 03:56:30,373 [INFO] [mHTTP GET /match/get_squad?teamId=33 200 [0.65, 127.0.0.1:34716][0m
+2024-05-24 03:56:30,403 [INFO] [mHTTP GET /match/get_squad?teamId=32 200 [0.68, 127.0.0.1:45842][0m
+2024-05-24 03:57:00,081 [INFO] [mHTTP OPTIONS /match/add_playing11/ 200 [0.00, 127.0.0.1:45842][0m
+2024-05-24 03:57:04,109 [INFO] [mHTTP POST /match/add_playing11/ 200 [4.02, 127.0.0.1:45842][0m
+2024-05-24 03:57:04,203 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:50984]
+2024-05-24 03:57:04,204 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:50984]
+2024-05-24 03:57:04,237 [INFO] [mHTTP OPTIONS /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.01, 127.0.0.1:45842][0m
+2024-05-24 03:57:04,238 [INFO] [mHTTP OPTIONS /score/match_score_data?matchId=34 200 [0.01, 127.0.0.1:34716][0m
+2024-05-24 03:57:04,259 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.01, 127.0.0.1:34716][0m
+2024-05-24 03:57:04,361 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.12, 127.0.0.1:45842][0m
+2024-05-24 03:57:36,704 [INFO] [mHTTP OPTIONS /match/get_match_score?matchId=34 200 [0.00, 127.0.0.1:45842][0m
+2024-05-24 03:57:36,729 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:56244]
+2024-05-24 03:57:36,730 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:56244]
+2024-05-24 03:57:36,742 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.03, 127.0.0.1:45842][0m
+2024-05-24 03:57:36,766 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.01, 127.0.0.1:45842][0m
+2024-05-24 03:57:45,724 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:33944]
+2024-05-24 03:57:45,726 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:33944]
+2024-05-24 03:57:48,154 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:34716][0m
+2024-05-24 03:57:48,209 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.07, 127.0.0.1:45842][0m
+2024-05-24 03:57:56,946 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:34716][0m
+2024-05-24 03:57:56,957 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:45842][0m
+2024-05-24 03:58:07,262 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:52736]
+2024-05-24 03:58:07,264 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:52736]
+2024-05-24 03:59:39,726 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:48682]
+2024-05-24 03:59:39,731 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:48682]
+2024-05-24 03:59:39,746 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:48710][0m
+2024-05-24 03:59:39,759 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:48694][0m
+2024-05-24 03:59:45,162 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44338]
+2024-05-24 03:59:45,164 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44338]
+2024-05-24 04:00:14,642 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:52568]
+2024-05-24 04:00:14,644 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:52568]
+2024-05-24 04:01:00,764 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34026]
+2024-05-24 04:01:00,766 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34026]
+2024-05-24 04:01:00,791 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.01, 127.0.0.1:34032][0m
+2024-05-24 04:01:00,835 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.06, 127.0.0.1:34030][0m
+2024-05-24 04:01:02,971 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34044]
+2024-05-24 04:01:02,973 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34044]
+2024-05-24 04:01:03,256 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.28, 127.0.0.1:34032][0m
+2024-05-24 04:01:03,259 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.28, 127.0.0.1:34030][0m
+2024-05-24 04:01:03,553 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:34030][0m
+2024-05-24 04:01:03,567 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34058]
+2024-05-24 04:01:03,570 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.04, 127.0.0.1:34032][0m
+2024-05-24 04:01:03,573 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34058]
+2024-05-24 04:01:09,528 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34328]
+2024-05-24 04:01:09,529 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34328]
+2024-05-24 04:01:09,560 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.01, 127.0.0.1:34030][0m
+2024-05-24 04:01:09,569 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:34032][0m
+2024-05-24 04:01:09,718 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34336]
+2024-05-24 04:01:09,721 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34336]
+2024-05-24 04:01:09,758 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:34030][0m
+2024-05-24 04:01:09,762 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:34032][0m
+2024-05-24 04:01:13,918 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34340]
+2024-05-24 04:01:13,919 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34340]
+2024-05-24 04:01:13,962 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:34032][0m
+2024-05-24 04:01:13,972 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.03, 127.0.0.1:34030][0m
+2024-05-24 04:01:22,693 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34058]
+2024-05-24 04:01:22,693 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:52568]
+2024-05-24 04:01:22,694 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34026]
+2024-05-24 04:01:22,695 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:33944]
+2024-05-24 04:01:22,695 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34044]
+2024-05-24 04:01:22,695 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:52736]
+2024-05-24 04:01:22,696 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:48682]
+2024-05-24 04:01:22,696 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34340]
+2024-05-24 04:01:22,697 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:50984]
+2024-05-24 04:01:22,697 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34336]
+2024-05-24 04:01:22,698 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34328]
+2024-05-24 04:01:22,699 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44338]
+2024-05-24 04:01:23,647 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:42318]
+2024-05-24 04:01:23,648 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:42318]
+2024-05-24 04:01:23,696 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.02, 127.0.0.1:34032][0m
+2024-05-24 04:01:23,713 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.01, 127.0.0.1:34032][0m
+2024-05-24 04:01:25,954 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:57642]
+2024-05-24 04:01:25,956 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:57642]
+2024-05-24 04:01:30,222 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.04, 127.0.0.1:34030][0m
+2024-05-24 04:01:30,228 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.06, 127.0.0.1:34032][0m
+2024-05-24 04:01:42,264 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:34030][0m
+2024-05-24 04:01:42,269 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:34032][0m
+2024-05-24 04:02:15,467 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47788]
+2024-05-24 04:02:15,468 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47788]
+2024-05-24 04:02:17,357 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47796]
+2024-05-24 04:02:17,359 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47796]
+2024-05-24 04:02:17,395 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:34032][0m
+2024-05-24 04:02:17,401 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:34030][0m
+2024-05-24 04:02:17,636 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47802]
+2024-05-24 04:02:17,637 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47802]
+2024-05-24 04:02:17,690 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:34030][0m
+2024-05-24 04:02:17,692 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.03, 127.0.0.1:34032][0m
+2024-05-24 04:02:17,934 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47818]
+2024-05-24 04:02:17,936 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47818]
+2024-05-24 04:02:17,968 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:34032][0m
+2024-05-24 04:02:17,992 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:34030][0m
+2024-05-24 04:02:24,731 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43882]
+2024-05-24 04:02:24,732 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43882]
+2024-05-24 04:02:27,736 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43890]
+2024-05-24 04:02:27,738 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43890]
+2024-05-24 04:02:39,118 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59528]
+2024-05-24 04:02:39,122 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59528]
+2024-05-24 04:02:39,197 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.08, 127.0.0.1:34030][0m
+2024-05-24 04:02:39,204 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.08, 127.0.0.1:34032][0m
+2024-05-24 04:02:39,272 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59532]
+2024-05-24 04:02:39,275 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59532]
+2024-05-24 04:02:39,315 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:34032][0m
+2024-05-24 04:02:39,326 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.04, 127.0.0.1:34030][0m
+2024-05-24 04:04:22,617 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47802]
+2024-05-24 04:04:22,617 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:42318]
+2024-05-24 04:04:22,618 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:57642]
+2024-05-24 04:04:22,618 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47788]
+2024-05-24 04:04:22,619 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59528]
+2024-05-24 04:04:22,619 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:43882]
+2024-05-24 04:04:22,620 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:43890]
+2024-05-24 04:04:22,620 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47796]
+2024-05-24 04:04:22,621 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59532]
+2024-05-24 04:04:22,621 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47818]
+2024-05-24 04:04:23,526 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44682]
+2024-05-24 04:04:23,528 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44682]
+2024-05-24 04:04:23,569 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:44700][0m
+2024-05-24 04:04:23,601 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:44696][0m
+2024-05-24 04:04:25,704 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59270]
+2024-05-24 04:04:25,705 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59270]
+2024-05-24 04:04:51,698 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53620]
+2024-05-24 04:04:51,701 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53620]
+2024-05-24 04:04:51,741 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.04, 127.0.0.1:44700][0m
+2024-05-24 04:04:51,744 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:44696][0m
+2024-05-24 04:05:33,769 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:42260]
+2024-05-24 04:05:33,776 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:42260]
+2024-05-24 04:05:33,823 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.06, 127.0.0.1:44700][0m
+2024-05-24 04:05:33,848 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.08, 127.0.0.1:44696][0m
+2024-05-24 04:05:33,889 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:42262]
+2024-05-24 04:05:33,893 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:42262]
+2024-05-24 04:05:33,946 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.06, 127.0.0.1:44700][0m
+2024-05-24 04:05:33,947 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.06, 127.0.0.1:44696][0m
+2024-05-24 04:05:33,989 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:42270]
+2024-05-24 04:05:33,992 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:42270]
+2024-05-24 04:05:34,024 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:44700][0m
+2024-05-24 04:05:34,051 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.06, 127.0.0.1:44696][0m
+2024-05-24 04:05:36,167 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:54680]
+2024-05-24 04:05:36,169 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:54680]
+2024-05-24 04:05:38,732 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:54696]
+2024-05-24 04:05:38,734 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:54696]
+2024-05-24 04:05:42,941 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.04, 127.0.0.1:44700][0m
+2024-05-24 04:05:42,949 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:44696][0m
+2024-05-24 04:05:50,817 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:44700][0m
+2024-05-24 04:05:50,821 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:44696][0m
+2024-05-24 04:05:53,458 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:54174]
+2024-05-24 04:05:53,459 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:54174]
+2024-05-24 04:05:55,934 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:33136]
+2024-05-24 04:05:55,935 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:33136]
+2024-05-24 04:06:21,435 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:51418]
+2024-05-24 04:06:21,437 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:51418]
+2024-05-24 04:06:21,873 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:51424]
+2024-05-24 04:06:21,875 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:51424]
+2024-05-24 04:06:21,913 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.03, 127.0.0.1:44700][0m
+2024-05-24 04:06:21,929 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:44696][0m
+2024-05-24 04:06:23,598 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:51440]
+2024-05-24 04:06:23,600 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:51440]
+2024-05-24 04:06:26,250 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:51190]
+2024-05-24 04:06:26,252 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:51190]
+2024-05-24 04:08:40,672 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:41096]
+2024-05-24 04:08:40,673 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:41096]
+2024-05-24 04:08:40,703 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.02, 127.0.0.1:41102][0m
+2024-05-24 04:08:40,720 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.01, 127.0.0.1:41102][0m
+2024-05-24 04:10:47,730 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:49886]
+2024-05-24 04:10:47,732 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:49886]
+2024-05-24 04:10:47,765 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:49910][0m
+2024-05-24 04:10:47,791 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.06, 127.0.0.1:49896][0m
+2024-05-24 04:10:48,684 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:49924]
+2024-05-24 04:10:48,685 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:49924]
+2024-05-24 04:10:48,719 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.03, 127.0.0.1:49910][0m
+2024-05-24 04:10:48,724 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:49896][0m
+2024-05-24 04:10:59,657 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:46198]
+2024-05-24 04:10:59,659 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:46198]
+2024-05-24 04:10:59,687 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.02, 127.0.0.1:49896][0m
+2024-05-24 04:10:59,693 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.03, 127.0.0.1:49910][0m
+2024-05-24 04:11:10,712 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55922]
+2024-05-24 04:11:10,714 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55922]
+2024-05-24 04:11:13,826 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:49896][0m
+2024-05-24 04:11:13,838 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:49910][0m
+2024-05-24 04:11:21,725 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:49896][0m
+2024-05-24 04:11:21,740 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:49910][0m
+2024-05-24 04:11:25,707 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36608]
+2024-05-24 04:11:25,709 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36608]
+2024-05-24 04:11:30,891 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:36612]
+2024-05-24 04:11:30,892 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:36612]
+2024-05-24 04:12:25,801 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34294]
+2024-05-24 04:12:25,803 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34294]
+2024-05-24 04:12:25,856 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.04, 127.0.0.1:34324][0m
+2024-05-24 04:12:25,869 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:34308][0m
+2024-05-24 04:12:26,078 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34338]
+2024-05-24 04:12:26,080 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34338]
+2024-05-24 04:12:26,334 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:34350]
+2024-05-24 04:12:26,338 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:34350]
+2024-05-24 04:12:26,362 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.03, 127.0.0.1:34324][0m
+2024-05-24 04:12:26,372 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:34308][0m
+2024-05-24 04:12:42,680 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34294]
+2024-05-24 04:12:42,683 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55922]
+2024-05-24 04:12:42,689 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53620]
+2024-05-24 04:12:42,690 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34350]
+2024-05-24 04:12:42,690 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:41096]
+2024-05-24 04:12:42,691 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:51190]
+2024-05-24 04:12:42,691 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:51418]
+2024-05-24 04:12:42,691 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:54680]
+2024-05-24 04:12:42,691 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:51424]
+2024-05-24 04:12:42,692 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:42260]
+2024-05-24 04:12:42,692 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:34338]
+2024-05-24 04:12:42,692 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:54696]
+2024-05-24 04:12:42,692 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:42262]
+2024-05-24 04:12:42,693 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:54174]
+2024-05-24 04:12:42,693 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:49886]
+2024-05-24 04:12:42,693 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59270]
+2024-05-24 04:12:42,693 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44682]
+2024-05-24 04:12:42,694 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:36608]
+2024-05-24 04:12:42,694 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:36612]
+2024-05-24 04:12:42,694 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:46198]
+2024-05-24 04:12:42,694 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:51440]
+2024-05-24 04:12:42,694 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:33136]
+2024-05-24 04:12:42,695 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:49924]
+2024-05-24 04:12:42,695 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:42270]
+2024-05-24 04:12:43,693 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53700]
+2024-05-24 04:12:43,695 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53700]
+2024-05-24 04:12:43,733 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.01, 127.0.0.1:34324][0m
+2024-05-24 04:12:43,749 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:34308][0m
+2024-05-24 04:12:45,317 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47126]
+2024-05-24 04:12:45,319 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47126]
+2024-05-24 04:12:48,168 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.03, 127.0.0.1:34324][0m
+2024-05-24 04:12:48,171 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:34308][0m
+2024-05-24 04:12:57,236 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:34324][0m
+2024-05-24 04:12:57,242 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:34308][0m
+2024-05-24 04:29:56,666 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47346]
+2024-05-24 04:29:56,667 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47346]
+2024-05-24 04:29:56,698 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:47354][0m
+2024-05-24 04:29:56,701 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.03, 127.0.0.1:47370][0m
+2024-05-24 04:34:03,558 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53022]
+2024-05-24 04:34:03,560 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53022]
+2024-05-24 04:34:03,613 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:53028][0m
+2024-05-24 04:34:03,623 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:53032][0m
+2024-05-24 04:34:03,727 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53046]
+2024-05-24 04:34:03,728 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53046]
+2024-05-24 04:34:03,759 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.02, 127.0.0.1:53028][0m
+2024-05-24 04:34:03,761 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:53032][0m
+2024-05-24 04:34:11,845 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:37644]
+2024-05-24 04:34:11,850 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:37644]
+2024-05-24 04:34:11,885 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.04, 127.0.0.1:53028][0m
+2024-05-24 04:34:11,890 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:53032][0m
+2024-05-24 04:38:17,976 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:52742]
+2024-05-24 04:38:17,980 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:52742]
+2024-05-24 04:38:18,067 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:52756]
+2024-05-24 04:38:18,071 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:52756]
+2024-05-24 04:38:18,093 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.02, 127.0.0.1:52768][0m
+2024-05-24 04:38:18,165 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:52768][0m
+2024-05-24 04:41:36,694 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:32856]
+2024-05-24 04:41:36,695 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:32856]
+2024-05-24 04:41:36,791 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.09, 127.0.0.1:32868][0m
+2024-05-24 04:41:36,802 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.09, 127.0.0.1:32878][0m
+2024-05-24 04:42:27,678 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:48178]
+2024-05-24 04:42:27,694 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:48178]
+2024-05-24 04:42:27,719 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:32878][0m
+2024-05-24 04:42:27,756 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.08, 127.0.0.1:32868][0m
+2024-05-24 04:42:31,665 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:48194]
+2024-05-24 04:42:31,666 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:48194]
+2024-05-24 04:42:31,775 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.10, 127.0.0.1:32868][0m
+2024-05-24 04:42:31,821 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.14, 127.0.0.1:32878][0m
+2024-05-24 04:42:50,680 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:33814]
+2024-05-24 04:42:50,682 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:33814]
+2024-05-24 04:42:50,709 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:32878][0m
+2024-05-24 04:42:50,761 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.09, 127.0.0.1:32868][0m
+2024-05-24 04:44:21,604 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:59934]
+2024-05-24 04:44:21,606 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:59934]
+2024-05-24 04:44:24,897 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:52584]
+2024-05-24 04:44:24,900 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:52584]
+2024-05-24 04:45:08,686 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:56902]
+2024-05-24 04:45:08,687 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:56902]
+2024-05-24 04:45:08,735 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:56906][0m
+2024-05-24 04:45:08,782 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.08, 127.0.0.1:56916][0m
+2024-05-24 04:46:21,366 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53466]
+2024-05-24 04:46:21,368 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53466]
+2024-05-24 04:46:21,419 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:53476][0m
+2024-05-24 04:46:21,466 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.08, 127.0.0.1:53484][0m
+2024-05-24 04:46:23,690 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53494]
+2024-05-24 04:46:23,711 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53494]
+2024-05-24 04:46:23,785 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:53502]
+2024-05-24 04:46:23,788 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:53502]
+2024-05-24 04:46:23,809 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.03, 127.0.0.1:53484][0m
+2024-05-24 04:46:23,885 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.06, 127.0.0.1:53484][0m
+2024-05-24 04:46:26,313 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:54990]
+2024-05-24 04:46:26,315 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:54990]
+2024-05-24 04:46:26,345 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55006]
+2024-05-24 04:46:26,352 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55006]
+2024-05-24 04:46:26,369 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.03, 127.0.0.1:53484][0m
+2024-05-24 04:46:26,397 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.03, 127.0.0.1:53484][0m
+2024-05-24 04:46:26,627 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.25, 127.0.0.1:53476][0m
+2024-05-24 04:46:26,687 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.06, 127.0.0.1:53476][0m
+2024-05-24 04:46:32,008 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55012]
+2024-05-24 04:46:32,010 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55012]
+2024-05-24 04:46:32,054 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55018]
+2024-05-24 04:46:32,059 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55018]
+2024-05-24 04:46:32,090 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.05, 127.0.0.1:53476][0m
+2024-05-24 04:46:32,121 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.03, 127.0.0.1:53476][0m
+2024-05-24 04:46:32,180 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:53484][0m
+2024-05-24 04:46:32,249 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.06, 127.0.0.1:53484][0m
+2024-05-24 04:46:36,516 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:39528]
+2024-05-24 04:46:36,518 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:39528]
+2024-05-24 04:46:36,538 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:39534]
+2024-05-24 04:46:36,540 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:39534]
+2024-05-24 04:46:36,565 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.03, 127.0.0.1:53484][0m
+2024-05-24 04:46:36,594 [INFO] [mHTTP GET /match/get_match_score?matchId=34 200 [0.02, 127.0.0.1:53484][0m
+2024-05-24 04:46:36,648 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:53476][0m
+2024-05-24 04:46:36,710 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.06, 127.0.0.1:53476][0m
+2024-05-24 04:48:28,730 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45824]
+2024-05-24 04:48:28,732 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45824]
+2024-05-24 04:48:28,849 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.09, 127.0.0.1:45830][0m
+2024-05-24 04:48:28,854 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.08, 127.0.0.1:45838][0m
+2024-05-24 04:48:29,085 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45848]
+2024-05-24 04:48:29,087 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45848]
+2024-05-24 04:48:29,175 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.07, 127.0.0.1:45830][0m
+2024-05-24 04:48:29,228 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.12, 127.0.0.1:45838][0m
+2024-05-24 04:48:29,332 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:45854]
+2024-05-24 04:48:29,336 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:45854]
+2024-05-24 04:48:29,413 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.08, 127.0.0.1:45830][0m
+2024-05-24 04:48:29,493 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.16, 127.0.0.1:45838][0m
+2024-05-24 04:48:39,984 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:49486]
+2024-05-24 04:48:39,986 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:49486]
+2024-05-24 04:48:40,025 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:45838][0m
+2024-05-24 04:48:40,065 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.08, 127.0.0.1:45830][0m
+2024-05-24 04:48:40,176 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:49488]
+2024-05-24 04:48:40,180 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:49488]
+2024-05-24 04:48:40,217 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:45830][0m
+2024-05-24 04:48:40,243 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:45838][0m
+2024-05-24 04:48:51,919 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47060]
+2024-05-24 04:48:51,923 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47060]
+2024-05-24 04:48:51,962 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.06, 127.0.0.1:45838][0m
+2024-05-24 04:48:52,026 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.12, 127.0.0.1:45830][0m
+2024-05-24 04:48:52,109 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:47076]
+2024-05-24 04:48:52,111 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:47076]
+2024-05-24 04:48:52,135 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:45830][0m
+2024-05-24 04:48:52,178 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:45838][0m
+2024-05-24 04:49:03,641 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55956]
+2024-05-24 04:49:03,644 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55956]
+2024-05-24 04:49:03,709 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.07, 127.0.0.1:45838][0m
+2024-05-24 04:49:03,775 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.12, 127.0.0.1:45830][0m
+2024-05-24 04:49:08,835 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:35966]
+2024-05-24 04:49:08,837 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:35966]
+2024-05-24 04:49:10,706 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53700]
+2024-05-24 04:49:10,707 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:49488]
+2024-05-24 04:49:10,707 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:33814]
+2024-05-24 04:49:10,708 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47076]
+2024-05-24 04:49:10,708 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45854]
+2024-05-24 04:49:10,709 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53466]
+2024-05-24 04:49:10,709 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:35966]
+2024-05-24 04:49:10,709 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53494]
+2024-05-24 04:49:10,710 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:48194]
+2024-05-24 04:49:10,711 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53022]
+2024-05-24 04:49:10,712 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:52742]
+2024-05-24 04:49:10,712 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:49486]
+2024-05-24 04:49:10,713 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47346]
+2024-05-24 04:49:10,713 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:52584]
+2024-05-24 04:49:10,713 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47126]
+2024-05-24 04:49:10,716 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45824]
+2024-05-24 04:49:10,716 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:47060]
+2024-05-24 04:49:10,716 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:59934]
+2024-05-24 04:49:10,717 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:37644]
+2024-05-24 04:49:10,717 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:45848]
+2024-05-24 04:49:10,717 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:48178]
+2024-05-24 04:49:10,717 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53046]
+2024-05-24 04:49:10,717 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55956]
+2024-05-24 04:49:10,718 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:56902]
+2024-05-24 04:49:10,718 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:32856]
+2024-05-24 04:49:11,603 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:35976]
+2024-05-24 04:49:11,605 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:35976]
+2024-05-24 04:49:11,715 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.09, 127.0.0.1:45830][0m
+2024-05-24 04:49:11,741 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.10, 127.0.0.1:45838][0m
+2024-05-24 04:49:14,247 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:45838][0m
+2024-05-24 04:49:14,289 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:45830][0m
+2024-05-24 04:49:23,180 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.06, 127.0.0.1:45830][0m
+2024-05-24 04:49:23,216 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.09, 127.0.0.1:45838][0m
+2024-05-24 04:49:33,822 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43816]
+2024-05-24 04:49:33,825 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43816]
+2024-05-24 04:50:21,952 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55934]
+2024-05-24 04:50:21,954 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55934]
+2024-05-24 04:50:21,995 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:45838][0m
+2024-05-24 04:50:22,037 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:45830][0m
+2024-05-24 04:52:16,088 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.02, 127.0.0.1:46964][0m
+2024-05-24 04:52:16,109 [INFO] [mHTTP GET /tournament/get/13/ 200 [0.02, 127.0.0.1:46964][0m
+2024-05-24 04:52:16,196 [INFO] [mHTTP GET /team/list/?page=1&pageSize=10&search=&order=&tournamentId=13 200 [0.03, 127.0.0.1:46964][0m
+2024-05-24 04:52:17,741 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46964][0m
+2024-05-24 04:52:20,452 [INFO] [mHTTP POST /match/match_fixture 200 [0.39, 127.0.0.1:46964][0m
+2024-05-24 04:52:20,519 [INFO] [mHTTP GET /match/match_fixture_list?tournamentId=13&page=1&pageSize=12 200 [0.02, 127.0.0.1:46964][0m
+2024-05-24 04:52:20,577 [INFO] [mHTTP GET /team/get_team/?teamId=32 200 [0.01, 127.0.0.1:46964][0m
+2024-05-24 04:52:20,592 [INFO] [mHTTP GET /team/get_team/?teamId=33 200 [0.01, 127.0.0.1:46964][0m
+2024-05-24 04:52:22,074 [INFO] [mHTTP OPTIONS /match/get_match?matchId=35 200 [0.00, 127.0.0.1:46964][0m
+2024-05-24 04:52:22,116 [INFO] [mHTTP GET /match/get_match?matchId=35 200 [0.04, 127.0.0.1:46964][0m
+2024-05-24 04:52:35,869 [INFO] [mHTTP GET /match/get_match?matchId=35 200 [0.02, 127.0.0.1:52866][0m
+2024-05-24 04:52:36,015 [INFO] [mHTTP PUT /match/update_match_schedule 200 [0.17, 127.0.0.1:46964][0m
+2024-05-24 04:53:19,180 [INFO] [mHTTP PATCH /match/toss 200 [0.31, 127.0.0.1:46964][0m
+2024-05-24 04:53:19,579 [INFO] [mHTTP GET /match/get_squad?teamId=32 200 [0.31, 127.0.0.1:46964][0m
+2024-05-24 04:53:19,999 [INFO] [mHTTP GET /match/get_squad?teamId=33 200 [0.72, 127.0.0.1:52866][0m
+2024-05-24 04:54:05,778 [INFO] [mHTTP POST /match/add_playing11/ 200 [4.48, 127.0.0.1:52866][0m
+2024-05-24 04:54:05,941 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:40742]
+2024-05-24 04:54:05,943 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:40742]
+2024-05-24 04:54:05,971 [INFO] [mHTTP OPTIONS /match/getPlaying11?team1id=32&team2id=33&id=35 200 [0.01, 127.0.0.1:52866][0m
+2024-05-24 04:54:05,973 [INFO] [mHTTP OPTIONS /score/match_score_data?matchId=35 200 [0.01, 127.0.0.1:46964][0m
+2024-05-24 04:54:06,005 [INFO] [mHTTP GET /score/match_score_data?matchId=35 200 [0.03, 127.0.0.1:46964][0m
+2024-05-24 04:54:06,007 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=35 200 [0.03, 127.0.0.1:52866][0m
+2024-05-24 04:54:12,934 [INFO] [mHTTP GET /score/match_score_data?matchId=35 200 [0.02, 127.0.0.1:46964][0m
+2024-05-24 04:54:12,957 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=35 200 [0.04, 127.0.0.1:52866][0m
+2024-05-24 04:59:21,664 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:44658]
+2024-05-24 04:59:21,667 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:44658]
+2024-05-24 04:59:21,712 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:44666][0m
+2024-05-24 04:59:21,712 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:44658]
+2024-05-24 04:59:21,755 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.09, 127.0.0.1:44670][0m
+2024-05-24 04:59:25,674 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55432]
+2024-05-24 04:59:25,680 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55432]
+2024-05-24 04:59:25,701 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55432]
+2024-05-24 04:59:25,714 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:44670][0m
+2024-05-24 04:59:25,764 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.09, 127.0.0.1:44666][0m
+2024-05-24 04:59:30,679 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:55448]
+2024-05-24 04:59:30,682 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:55448]
+2024-05-24 04:59:30,720 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.04, 127.0.0.1:44666][0m
+2024-05-24 04:59:30,763 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:44670][0m
+2024-05-24 04:59:30,798 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55448]
+2024-05-24 04:59:46,657 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38384]
+2024-05-24 04:59:46,659 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38384]
+2024-05-24 04:59:46,694 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38384]
+2024-05-24 04:59:46,717 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.06, 127.0.0.1:44670][0m
+2024-05-24 04:59:46,751 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.09, 127.0.0.1:44666][0m
+2024-05-24 04:59:51,577 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55934]
+2024-05-24 04:59:51,579 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:35976]
+2024-05-24 04:59:51,580 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:43816]
+2024-05-24 04:59:52,507 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:38390]
+2024-05-24 04:59:52,509 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:38390]
+2024-05-24 04:59:52,546 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.03, 127.0.0.1:44666][0m
+2024-05-24 04:59:52,605 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.09, 127.0.0.1:44670][0m
+2024-05-24 04:59:52,721 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:38390]
+2024-05-24 05:00:49,495 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.05, 127.0.0.1:44670][0m
+2024-05-24 05:00:49,539 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.08, 127.0.0.1:44666][0m
+2024-05-24 05:00:59,366 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=34 200 [0.02, 127.0.0.1:44666][0m
+2024-05-24 05:00:59,429 [INFO] [mHTTP GET /score/match_score_data?matchId=34 200 [0.07, 127.0.0.1:44670][0m
+2024-05-24 05:01:02,048 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:43402]
+2024-05-24 05:01:02,050 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:43402]
+2024-05-24 05:01:02,069 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:43402]
+2024-05-24 05:01:49,402 [INFO] [mHTTP GET /score/match_score_data?matchId=35 200 [0.02, 127.0.0.1:44666][0m
+2024-05-24 05:01:49,404 [INFO] [mHTTP GET /match/getPlaying11?team1id=32&team2id=33&id=35 200 [0.02, 127.0.0.1:44670][0m
+2024-05-24 05:01:55,653 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:60122]
+2024-05-24 05:01:55,655 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:60122]
+2024-05-24 05:03:47,584 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:49148]
+2024-05-24 05:03:47,592 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:49148]
+2024-05-24 05:03:51,161 [INFO] WebSocket HANDSHAKING /score/update_score/ [127.0.0.1:49152]
+2024-05-24 05:03:51,163 [INFO] WebSocket CONNECT /score/update_score/ [127.0.0.1:49152]
+2024-05-24 08:12:46,871 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:53502]
+2024-05-24 08:12:47,300 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:54990]
+2024-05-24 08:12:47,301 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:55006]
+2024-05-24 08:12:48,001 [INFO] WebSocket DISCONNECT /score/update_score/ [127.0.0.1:60122]
